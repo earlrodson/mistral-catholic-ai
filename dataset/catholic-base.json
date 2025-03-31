@@ -1,0 +1,3902 @@
+[
+  {
+    "id": 1,
+    "category": "Foundations",
+    "subcategory": "Apologetics",
+    "question": "What is apologetics?",
+    "answer": "Apologetics is the branch of theology that explains and defends the truths of the Catholic Faith.",
+    "references": ["1 Peter 3:15", "Catechism 156-159"],
+    "tags": ["Apologetics", "Theology"],
+    "level": "Basic"
+  },
+  {
+    "id": 2,
+    "category": "Foundations",
+    "subcategory": "Apologetics",
+    "question": "What does the word 'apologetics' mean?",
+    "answer": "It comes from the Greek word apologia, meaning a defense or justification.",
+    "references": ["1 Peter 3:15"],
+    "tags": ["Apologetics"],
+    "level": "Basic"
+  },
+  {
+    "id": 3,
+    "category": "Foundations",
+    "subcategory": "Revelation",
+    "question": "What is Divine Revelation?",
+    "answer": "Divine Revelation is God's communication of Himself and His will to humanity, primarily through Scripture and Tradition.",
+    "references": ["Dei Verbum 2", "Catechism 50-53"],
+    "tags": ["Revelation", "Scripture", "Tradition"],
+    "level": "Basic"
+  },
+  {
+    "id": 4,
+    "category": "Scripture",
+    "subcategory": "Bible",
+    "question": "Who is the primary author of the Bible?",
+    "answer": "God is the principal author, and the human writers are secondary authors inspired by the Holy Spirit.",
+    "references": ["Dei Verbum 11", "Catechism 105-108"],
+    "tags": ["Scripture", "Bible"],
+    "level": "Basic"
+  },
+  {
+    "id": 5,
+    "category": "Scripture",
+    "subcategory": "Bible",
+    "question": "How many books are in the Catholic Bible?",
+    "answer": "73 books — 46 in the Old Testament and 27 in the New Testament.",
+    "references": ["Council of Trent, Session 4", "Catechism 120"],
+    "tags": ["Bible", "Canon"],
+    "level": "Basic"
+  },
+  {
+    "id": 6,
+    "category": "Church",
+    "subcategory": "Magisterium",
+    "question": "What is the Magisterium?",
+    "answer": "The Magisterium is the teaching authority of the Church, exercised by the Pope and bishops in union with him.",
+    "references": ["Catechism 85-87"],
+    "tags": ["Magisterium", "Authority"],
+    "level": "Basic"
+  },
+  {
+    "id": 7,
+    "category": "Church",
+    "subcategory": "Papacy",
+    "question": "Why do Catholics believe the Pope has authority?",
+    "answer": "Because Jesus gave Peter the keys of the Kingdom and established him as the rock of the Church (Matthew 16:18-19).",
+    "references": ["Matthew 16:18-19", "Catechism 881-882"],
+    "tags": ["Papacy", "Authority"],
+    "level": "Basic"
+  },
+  {
+    "id": 8,
+    "category": "Church",
+    "subcategory": "Infallibility",
+    "question": "What is Papal Infallibility?",
+    "answer": "It is the gift of the Holy Spirit that protects the Pope from error when he proclaims a doctrine of faith or morals ex cathedra.",
+    "references": ["Vatican I", "Catechism 891"],
+    "tags": ["Infallibility", "Papacy"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 9,
+    "category": "Sacraments",
+    "subcategory": "Eucharist",
+    "question": "Do Catholics believe the Eucharist is truly the Body and Blood of Christ?",
+    "answer": "Yes, Catholics believe that the bread and wine become the Body and Blood of Christ during the Mass, a change called transubstantiation.",
+    "references": ["John 6:53-58", "Catechism 1376"],
+    "tags": ["Eucharist", "Sacraments"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 10,
+    "category": "Sacraments",
+    "subcategory": "Eucharist",
+    "question": "What is transubstantiation?",
+    "answer": "Transubstantiation is the change of the substance of bread and wine into the Body and Blood of Christ while the appearances remain.",
+    "references": ["Council of Trent, Session 13", "Catechism 1376"],
+    "tags": ["Eucharist", "Sacraments"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 11,
+    "category": "Scripture",
+    "subcategory": "Canon",
+    "question": "Why do Catholic Bibles have more books than Protestant Bibles?",
+    "answer": "Because Catholics include the Deuterocanonical books, which were part of the Septuagint and affirmed by the Church.",
+    "references": ["Council of Trent, Session 4", "Catechism 120"],
+    "tags": ["Canon", "Deuterocanonical"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 12,
+    "category": "Scripture",
+    "subcategory": "Bible",
+    "question": "What is the Septuagint?",
+    "answer": "The Septuagint is the ancient Greek translation of the Old Testament used by Jesus and the Apostles.",
+    "references": ["Catechism 109-120"],
+    "tags": ["Septuagint", "Bible"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 13,
+    "category": "Salvation",
+    "subcategory": "Justification",
+    "question": "Are we saved by faith alone?",
+    "answer": "No, Catholics believe we are saved by grace through faith working in love (Galatians 5:6).",
+    "references": ["James 2:24", "Galatians 5:6", "Catechism 1987-2016"],
+    "tags": ["Justification", "Salvation"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 14,
+    "category": "Salvation",
+    "subcategory": "Grace",
+    "question": "What is sanctifying grace?",
+    "answer": "Sanctifying grace is a habitual gift that makes us holy and pleasing to God.",
+    "references": ["Catechism 1999"],
+    "tags": ["Grace", "Sanctification"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 15,
+    "category": "Salvation",
+    "subcategory": "Works",
+    "question": "Do works have a role in salvation?",
+    "answer": "Yes, good works, as fruits of grace, cooperate with God’s plan and are meritorious.",
+    "references": ["James 2:17", "Catechism 2008-2011"],
+    "tags": ["Works", "Salvation"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 16,
+    "category": "Mary",
+    "subcategory": "Immaculate Conception",
+    "question": "What is the Immaculate Conception?",
+    "answer": "The Immaculate Conception is the doctrine that Mary was preserved from original sin from the moment of her conception.",
+    "references": ["Luke 1:28", "Catechism 491-492"],
+    "tags": ["Mary", "Immaculate Conception"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 17,
+    "category": "Mary",
+    "subcategory": "Assumption",
+    "question": "What is the Assumption of Mary?",
+    "answer": "The Assumption teaches that Mary was taken body and soul into Heaven at the end of her earthly life.",
+    "references": ["Revelation 12", "Catechism 966"],
+    "tags": ["Mary", "Assumption"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 18,
+    "category": "Mary",
+    "subcategory": "Mother of God",
+    "question": "Why is Mary called the Mother of God?",
+    "answer": "Because she is the mother of Jesus, who is God incarnate.",
+    "references": ["Luke 1:43", "Council of Ephesus 431", "Catechism 495"],
+    "tags": ["Mary", "Theotokos"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 19,
+    "category": "Church",
+    "subcategory": "Marks of the Church",
+    "question": "What are the four marks of the Church?",
+    "answer": "One, Holy, Catholic, and Apostolic.",
+    "references": ["Nicene Creed", "Catechism 811-865"],
+    "tags": ["Church", "Marks"],
+    "level": "Basic"
+  },
+  {
+    "id": 20,
+    "category": "Sacraments",
+    "subcategory": "Baptism",
+    "question": "Why is Baptism necessary for salvation?",
+    "answer": "Because it is the ordinary means by which we are cleansed of sin and become children of God.",
+    "references": ["John 3:5", "Catechism 1213-1284"],
+    "tags": ["Baptism", "Sacraments"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 21,
+    "category": "Sacraments",
+    "subcategory": "Confirmation",
+    "question": "What is Confirmation?",
+    "answer": "It is the sacrament that strengthens us with the gifts of the Holy Spirit and perfects baptismal grace.",
+    "references": ["Acts 8:14-17", "Catechism 1285-1321"],
+    "tags": ["Confirmation", "Sacraments"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 22,
+    "category": "Sacraments",
+    "subcategory": "Penance",
+    "question": "Why must we confess our sins to a priest?",
+    "answer": "Because Christ gave His apostles the authority to forgive sins (John 20:22-23).",
+    "references": ["John 20:22-23", "Catechism 1441-1449"],
+    "tags": ["Penance", "Confession"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 23,
+    "category": "Sacraments",
+    "subcategory": "Anointing of the Sick",
+    "question": "What is the Anointing of the Sick?",
+    "answer": "It is a sacrament for the spiritual and sometimes physical healing of the seriously ill.",
+    "references": ["James 5:14-15", "Catechism 1499-1532"],
+    "tags": ["Anointing", "Sacraments"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 24,
+    "category": "Sacraments",
+    "subcategory": "Holy Orders",
+    "question": "What is the Sacrament of Holy Orders?",
+    "answer": "It is the sacrament by which men are ordained to serve the Church as deacons, priests, or bishops.",
+    "references": ["Acts 6:6", "Catechism 1536-1600"],
+    "tags": ["Holy Orders", "Sacraments"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 25,
+    "category": "Sacraments",
+    "subcategory": "Matrimony",
+    "question": "What is the Sacrament of Matrimony?",
+    "answer": "It is the covenant by which a man and a woman establish a lifelong partnership ordered toward the good of the spouses and the procreation of children.",
+    "references": ["Genesis 2:24", "Catechism 1601-1666"],
+    "tags": ["Matrimony", "Sacraments"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 26,
+    "category": "Morality",
+    "subcategory": "Ten Commandments",
+    "question": "What are the Ten Commandments?",
+    "answer": "The Ten Commandments are the moral law given by God to Moses on Mount Sinai.",
+    "references": ["Exodus 20:1-17", "Catechism 2056-2063"],
+    "tags": ["Morality", "Commandments"],
+    "level": "Basic"
+  },
+  {
+    "id": 27,
+    "category": "Morality",
+    "subcategory": "Conscience",
+    "question": "What is conscience?",
+    "answer": "Conscience is the inner voice that guides us to do good and avoid evil.",
+    "references": ["Romans 2:15", "Catechism 1776-1794"],
+    "tags": ["Morality", "Conscience"],
+    "level": "Basic"
+  },
+  {
+    "id": 28,
+    "category": "Morality",
+    "subcategory": "Sin",
+    "question": "What is sin?",
+    "answer": "Sin is an offense against God and reason, a failure in genuine love for God and neighbor.",
+    "references": ["Catechism 1849-1851"],
+    "tags": ["Sin", "Morality"],
+    "level": "Basic"
+  },
+  {
+    "id": 29,
+    "category": "Morality",
+    "subcategory": "Mortal and Venial Sin",
+    "question": "What is the difference between mortal and venial sin?",
+    "answer": "Mortal sin destroys charity and cuts us off from God's grace; venial sin weakens charity but does not destroy it.",
+    "references": ["1 John 5:16-17", "Catechism 1854-1864"],
+    "tags": ["Sin", "Morality"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 30,
+    "category": "Morality",
+    "subcategory": "Same-Sex Unions",
+    "question": "Why does the Church oppose same-sex unions?",
+    "answer": "Because marriage, by nature, is the union of man and woman ordered to the good of the spouses and the procreation of children (Genesis 1:27-28).",
+    "references": ["Genesis 1:27-28", "Romans 1:26-27", "Catechism 2357-2359"],
+    "tags": ["Marriage", "Morality", "Same-Sex"],
+    "level": "Advanced"
+  },
+  {
+    "id": 31,
+    "category": "Morality",
+    "subcategory": "Abortion",
+    "question": "Why is abortion always morally wrong?",
+    "answer": "Because it is the direct and intentional killing of an innocent human being from conception.",
+    "references": ["Exodus 20:13", "Catechism 2270-2275"],
+    "tags": ["Abortion", "Morality", "Life"],
+    "level": "Advanced"
+  },
+  {
+    "id": 32,
+    "category": "Morality",
+    "subcategory": "Euthanasia",
+    "question": "What is euthanasia, and why does the Church condemn it?",
+    "answer": "Euthanasia is an act or omission that causes death to eliminate suffering; it is condemned because it violates the dignity of the human person.",
+    "references": ["Catechism 2276-2279"],
+    "tags": ["Euthanasia", "Morality", "Life"],
+    "level": "Advanced"
+  },
+  {
+    "id": 33,
+    "category": "Morality",
+    "subcategory": "Capital Punishment",
+    "question": "What is the Church's teaching on capital punishment?",
+    "answer": "The Church teaches that capital punishment is inadmissible because it is an attack on the inviolability and dignity of the person.",
+    "references": ["Catechism 2267"],
+    "tags": ["Capital Punishment", "Morality"],
+    "level": "Advanced"
+  },
+  {
+    "id": 34,
+    "category": "Prayer",
+    "subcategory": "What is Prayer",
+    "question": "What is prayer?",
+    "answer": "Prayer is the raising of one's mind and heart to God or the requesting of good things from Him.",
+    "references": ["Catechism 2559-2565"],
+    "tags": ["Prayer", "Spiritual Life"],
+    "level": "Basic"
+  },
+  {
+    "id": 35,
+    "category": "Prayer",
+    "subcategory": "The Lord's Prayer",
+    "question": "Why is the Our Father the perfect prayer?",
+    "answer": "Because Jesus Himself taught it, and it sums up the entire Gospel.",
+    "references": ["Matthew 6:9-13", "Catechism 2759-2865"],
+    "tags": ["Prayer", "Lord's Prayer"],
+    "level": "Basic"
+  },
+  {
+    "id": 36,
+    "category": "Prayer",
+    "subcategory": "Types of Prayer",
+    "question": "What are the main types of prayer?",
+    "answer": "Blessing and adoration, petition, intercession, thanksgiving, and praise.",
+    "references": ["Catechism 2626-2649"],
+    "tags": ["Prayer", "Spiritual Life"],
+    "level": "Basic"
+  },
+  {
+    "id": 37,
+    "category": "Church",
+    "subcategory": "Marks of the Church",
+    "question": "What are the four marks of the Church?",
+    "answer": "The Church is one, holy, catholic, and apostolic.",
+    "references": ["Nicene Creed", "Catechism 811-870"],
+    "tags": ["Church", "Marks of the Church"],
+    "level": "Basic"
+  },
+  {
+    "id": 38,
+    "category": "Church",
+    "subcategory": "Papal Infallibility",
+    "question": "What is papal infallibility?",
+    "answer": "It is the charism by which the Pope is preserved from error when solemnly defining matters of faith and morals.",
+    "references": ["Matthew 16:18-19", "Catechism 891-892"],
+    "tags": ["Church", "Pope", "Infallibility"],
+    "level": "Advanced"
+  },
+  {
+    "id": 39,
+    "category": "Church",
+    "subcategory": "Bishops",
+    "question": "What is the role of bishops in the Church?",
+    "answer": "Bishops are successors of the apostles who govern, teach, and sanctify in communion with the Pope.",
+    "references": ["Acts 20:28", "Catechism 888-896"],
+    "tags": ["Church", "Bishops"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 40,
+    "category": "Church",
+    "subcategory": "Laity",
+    "question": "What is the role of the laity?",
+    "answer": "The laity are called to seek the Kingdom of God by engaging in temporal affairs and witnessing to Christ.",
+    "references": ["Catechism 897-913"],
+    "tags": ["Church", "Laity"],
+    "level": "Basic"
+  },
+  {
+    "id": 41,
+    "category": "Eschatology",
+    "subcategory": "Death",
+    "question": "What happens after death?",
+    "answer": "Immediately after death, each person undergoes the particular judgment, receiving either heaven, purgatory, or hell.",
+    "references": ["Hebrews 9:27", "Catechism 1021-1022"],
+    "tags": ["Eschatology", "Judgment"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 42,
+    "category": "Eschatology",
+    "subcategory": "Purgatory",
+    "question": "What is purgatory?",
+    "answer": "Purgatory is a state of purification for those who die in God's grace but still need to be purified before entering heaven.",
+    "references": ["1 Corinthians 3:15", "Catechism 1030-1032"],
+    "tags": ["Eschatology", "Purgatory"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 43,
+    "category": "Eschatology",
+    "subcategory": "Hell",
+    "question": "Does hell exist?",
+    "answer": "Yes, hell is the state of definitive self-exclusion from communion with God for those who die in mortal sin without repentance.",
+    "references": ["Matthew 25:41", "Catechism 1033-1037"],
+    "tags": ["Eschatology", "Hell"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 44,
+    "category": "Eschatology",
+    "subcategory": "Heaven",
+    "question": "What is heaven?",
+    "answer": "Heaven is the state of eternal life and union with God where we see Him face to face.",
+    "references": ["Revelation 21:1-4", "Catechism 1023-1029"],
+    "tags": ["Eschatology", "Heaven"],
+    "level": "Basic"
+  },
+  {
+    "id": 45,
+    "category": "Eschatology",
+    "subcategory": "Second Coming",
+    "question": "What is the Second Coming of Christ?",
+    "answer": "The Second Coming is when Christ will return in glory to judge the living and the dead.",
+    "references": ["Matthew 25:31-46", "Catechism 668-682"],
+    "tags": ["Eschatology", "Second Coming"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 46,
+    "category": "Eschatology",
+    "subcategory": "Resurrection of the Body",
+    "question": "Will our bodies rise again?",
+    "answer": "Yes, at the end of time, all the dead will rise, and we will be reunited with our glorified bodies.",
+    "references": ["1 Corinthians 15", "Catechism 988-1004"],
+    "tags": ["Eschatology", "Resurrection"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 47,
+    "category": "Eschatology",
+    "subcategory": "Final Judgment",
+    "question": "What is the final judgment?",
+    "answer": "It is when Christ will reveal the secret disposition of hearts and render to each person according to their works.",
+    "references": ["Matthew 25:31-46", "Catechism 1038-1041"],
+    "tags": ["Eschatology", "Final Judgment"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 48,
+    "category": "Devotions",
+    "subcategory": "Rosary",
+    "question": "What is the Rosary?",
+    "answer": "The Rosary is a devotion that meditates on the mysteries of Christ's life, death, and resurrection through the intercession of Mary.",
+    "references": ["Catechism 2678-2708"],
+    "tags": ["Devotions", "Rosary"],
+    "level": "Basic"
+  },
+  {
+    "id": 49,
+    "category": "Devotions",
+    "subcategory": "Sacred Heart",
+    "question": "What is the devotion to the Sacred Heart of Jesus?",
+    "answer": "It is a devotion honoring the love and mercy of Christ symbolized by His heart.",
+    "references": ["Catechism 478"],
+    "tags": ["Devotions", "Sacred Heart"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 50,
+    "category": "Devotions",
+    "subcategory": "Eucharistic Adoration",
+    "question": "What is Eucharistic Adoration?",
+    "answer": "It is the worship and adoration of Jesus Christ present in the Holy Eucharist outside of Mass.",
+    "references": ["Catechism 1378"],
+    "tags": ["Devotions", "Eucharist", "Adoration"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 51,
+    "category": "Devotions",
+    "subcategory": "Stations of the Cross",
+    "question": "What are the Stations of the Cross?",
+    "answer": "They are a devotional practice that commemorates Christ's Passion and Death by meditating on 14 stations.",
+    "references": ["Catechism 2669"],
+    "tags": ["Devotions", "Stations of the Cross"],
+    "level": "Basic"
+  },
+  {
+    "id": 52,
+    "category": "Mary",
+    "subcategory": "Mother of God",
+    "question": "Why is Mary called the Mother of God?",
+    "answer": "Because she gave birth to Jesus Christ, who is truly God and truly man.",
+    "references": ["Luke 1:43", "Catechism 495"],
+    "tags": ["Mary", "Christology"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 53,
+    "category": "Mary",
+    "subcategory": "Immaculate Conception",
+    "question": "What is the Immaculate Conception?",
+    "answer": "It is the dogma that Mary was preserved from original sin from the moment of her conception.",
+    "references": ["Luke 1:28", "Catechism 491-492"],
+    "tags": ["Mary", "Immaculate Conception"],
+    "level": "Advanced"
+  },
+  {
+    "id": 54,
+    "category": "Mary",
+    "subcategory": "Assumption",
+    "question": "What is the Assumption of Mary?",
+    "answer": "It is the dogma that Mary was taken body and soul into heavenly glory at the end of her earthly life.",
+    "references": ["Catechism 966"],
+    "tags": ["Mary", "Assumption"],
+    "level": "Advanced"
+  },
+  {
+    "id": 55,
+    "category": "Mary",
+    "subcategory": "Perpetual Virginity",
+    "question": "What is the perpetual virginity of Mary?",
+    "answer": "Mary remained a virgin before, during, and after the birth of Jesus.",
+    "references": ["Catechism 499-500"],
+    "tags": ["Mary", "Virginity"],
+    "level": "Advanced"
+  },
+  {
+    "id": 56,
+    "category": "Mary",
+    "subcategory": "Mediatrix",
+    "question": "Why is Mary called Mediatrix?",
+    "answer": "Because she intercedes for us with her Son and cooperates uniquely in His redemptive mission.",
+    "references": ["John 2:1-11", "Catechism 969"],
+    "tags": ["Mary", "Mediatrix"],
+    "level": "Advanced"
+  },
+  {
+    "id": 57,
+    "category": "Saints",
+    "subcategory": "Communion of Saints",
+    "question": "What is the Communion of Saints?",
+    "answer": "It is the spiritual union of all members of Christ's Body: the Church in heaven, on earth, and in purgatory.",
+    "references": ["Catechism 946-962"],
+    "tags": ["Saints", "Communion of Saints"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 58,
+    "category": "Saints",
+    "subcategory": "Intercession of Saints",
+    "question": "Do saints intercede for us?",
+    "answer": "Yes, the saints pray for us and present our petitions to God.",
+    "references": ["Revelation 5:8", "Catechism 956"],
+    "tags": ["Saints", "Intercession"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 59,
+    "category": "Saints",
+    "subcategory": "Canonization",
+    "question": "What is canonization?",
+    "answer": "It is the Church's official declaration that a person is in heaven and may be publicly venerated.",
+    "references": ["Catechism 828"],
+    "tags": ["Saints", "Canonization"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 60,
+    "category": "Saints",
+    "subcategory": "Relics",
+    "question": "Why does the Church venerate relics?",
+    "answer": "Because they are tangible reminders of the saints and their union with Christ, but they are never worshiped.",
+    "references": ["2 Kings 13:20-21", "Catechism 1674-1675"],
+    "tags": ["Saints", "Relics"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 61,
+    "category": "Mary",
+    "subcategory": "Perpetual Virginity",
+    "question": "What does Mary's perpetual virginity mean?",
+    "answer": "Mary remained a virgin before, during, and after the birth of Jesus.",
+    "references": ["Luke 1:34", "Catechism 499-500"],
+    "tags": ["Mary", "Perpetual Virginity"],
+    "level": "Advanced"
+  },
+  {
+    "id": 62,
+    "category": "Mary",
+    "subcategory": "Mediatrix",
+    "question": "Is Mary the Mediatrix of all graces?",
+    "answer": "Mary is called Mediatrix because she cooperated uniquely in Christ's redemptive work and continues to intercede for us.",
+    "references": ["John 2:1-11", "Catechism 969"],
+    "tags": ["Mary", "Mediatrix"],
+    "level": "Advanced"
+  },
+  {
+    "id": 63,
+    "category": "Mary",
+    "subcategory": "Veneration of Mary",
+    "question": "Do Catholics worship Mary?",
+    "answer": "No, Catholics venerate (honor) Mary but worship God alone.",
+    "references": ["Luke 1:48", "Catechism 971"],
+    "tags": ["Mary", "Veneration"],
+    "level": "Basic"
+  },
+  {
+    "id": 64,
+    "category": "Saints",
+    "subcategory": "Intercession",
+    "question": "Why do Catholics ask saints to intercede for them?",
+    "answer": "Because the saints are alive in Christ and can pray for us as members of the Body of Christ.",
+    "references": ["Revelation 5:8", "Catechism 956"],
+    "tags": ["Saints", "Intercession"],
+    "level": "Basic"
+  },
+  {
+    "id": 65,
+    "category": "Saints",
+    "subcategory": "Canonization",
+    "question": "What is canonization?",
+    "answer": "Canonization is the solemn declaration by the Church that a person is in heaven and worthy of public veneration.",
+    "references": ["Catechism 828"],
+    "tags": ["Saints", "Canonization"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 66,
+    "category": "Saints",
+    "subcategory": "Communion of Saints",
+    "question": "What is the Communion of Saints?",
+    "answer": "It is the spiritual union of all the faithful, living and dead, who are united in Christ.",
+    "references": ["Catechism 946-962"],
+    "tags": ["Saints", "Communion of Saints"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 67,
+    "category": "Angels",
+    "subcategory": "Existence",
+    "question": "Do angels really exist?",
+    "answer": "Yes, angels are spiritual, non-corporeal beings created by God.",
+    "references": ["Catechism 328-336"],
+    "tags": ["Angels", "Existence"],
+    "level": "Basic"
+  },
+  {
+    "id": 68,
+    "category": "Angels",
+    "subcategory": "Guardian Angels",
+    "question": "Do we have guardian angels?",
+    "answer": "Yes, every person has a guardian angel assigned by God to protect and guide them.",
+    "references": ["Matthew 18:10", "Catechism 336"],
+    "tags": ["Angels", "Guardian Angels"],
+    "level": "Basic"
+  },
+  {
+    "id": 69,
+    "category": "Angels",
+    "subcategory": "Role in Salvation History",
+    "question": "What role do angels play in salvation history?",
+    "answer": "Angels serve as messengers and ministers of God's plan, often appearing in key moments of salvation history.",
+    "references": ["Luke 1:26-38", "Catechism 332-333"],
+    "tags": ["Angels", "Salvation History"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 70,
+    "category": "Sacramentals",
+    "subcategory": "Definition",
+    "question": "What are sacramentals?",
+    "answer": "Sacramentals are sacred signs instituted by the Church that prepare us to receive grace and dispose us to cooperate with it.",
+    "references": ["Catechism 1667-1673"],
+    "tags": ["Sacramentals", "Definition"],
+    "level": "Basic"
+  },
+  {
+    "id": 71,
+    "category": "Sacramentals",
+    "subcategory": "Examples",
+    "question": "Give examples of sacramentals.",
+    "answer": "Examples include holy water, medals, scapulars, blessings, and crucifixes.",
+    "references": ["Catechism 1667-1673"],
+    "tags": ["Sacramentals", "Examples"],
+    "level": "Basic"
+  },
+  {
+    "id": 72,
+    "category": "Sacramentals",
+    "subcategory": "Difference from Sacraments",
+    "question": "How are sacramentals different from sacraments?",
+    "answer": "Sacraments were instituted by Christ and give grace directly; sacramentals were instituted by the Church and dispose us to receive grace.",
+    "references": ["Catechism 1667-1673"],
+    "tags": ["Sacramentals", "Sacraments"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 73,
+    "category": "Sacred Scripture",
+    "subcategory": "Inspiration",
+    "question": "What does it mean that the Bible is inspired?",
+    "answer": "It means that God is the author of Sacred Scripture, having inspired the human authors to write what He wanted written.",
+    "references": ["2 Timothy 3:16", "Catechism 105-108"],
+    "tags": ["Scripture", "Inspiration"],
+    "level": "Basic"
+  },
+  {
+    "id": 74,
+    "category": "Sacred Scripture",
+    "subcategory": "Inerrancy",
+    "question": "Is the Bible free from error?",
+    "answer": "Yes, the Bible teaches the truth without error regarding salvation.",
+    "references": ["Dei Verbum 11", "Catechism 107"],
+    "tags": ["Scripture", "Inerrancy"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 75,
+    "category": "Sacred Scripture",
+    "subcategory": "Canon",
+    "question": "What is the canon of Scripture?",
+    "answer": "The canon is the list of books recognized by the Church as inspired and authoritative.",
+    "references": ["Catechism 120"],
+    "tags": ["Scripture", "Canon"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 76,
+    "category": "Sacred Scripture",
+    "subcategory": "Interpretation",
+    "question": "How should the Bible be interpreted?",
+    "answer": "The Bible should be interpreted according to the mind of the Church, considering literary forms, historical context, and the analogy of faith.",
+    "references": ["Catechism 109-119"],
+    "tags": ["Scripture", "Interpretation"],
+    "level": "Advanced"
+  },
+  {
+    "id": 77,
+    "category": "Sacred Tradition",
+    "subcategory": "Definition",
+    "question": "What is Sacred Tradition?",
+    "answer": "Sacred Tradition is the living transmission of the Gospel in the Church, distinct from but closely connected to Sacred Scripture.",
+    "references": ["Catechism 76-78"],
+    "tags": ["Tradition"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 78,
+    "category": "Sacred Tradition",
+    "subcategory": "Magisterium",
+    "question": "What is the Magisterium?",
+    "answer": "The Magisterium is the teaching office of the Church, which authentically interprets the Word of God, whether in written or oral form.",
+    "references": ["Catechism 85-87"],
+    "tags": ["Magisterium", "Tradition"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 79,
+    "category": "Sacred Tradition",
+    "subcategory": "Relation to Scripture",
+    "question": "How are Sacred Scripture and Sacred Tradition related?",
+    "answer": "Both flow from the same divine wellspring and together make up a single sacred deposit of the Word of God.",
+    "references": ["Catechism 80-82"],
+    "tags": ["Tradition", "Scripture"],
+    "level": "Advanced"
+  },
+  {
+    "id": 80,
+    "category": "Sacred Tradition",
+    "subcategory": "Apostolic Tradition",
+    "question": "What is Apostolic Tradition?",
+    "answer": "It is the transmission of the Gospel as handed down by the apostles, both orally and in writing, under the guidance of the Holy Spirit.",
+    "references": ["Catechism 75-79"],
+    "tags": ["Tradition", "Apostolic"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 81,
+    "category": "Ecumenism",
+    "subcategory": "Definition",
+    "question": "What is ecumenism?",
+    "answer": "Ecumenism is the effort to reunite all Christians into the one Church founded by Christ.",
+    "references": ["John 17:21", "Catechism 820-822"],
+    "tags": ["Ecumenism"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 82,
+    "category": "Ecumenism",
+    "subcategory": "Catholic Stance",
+    "question": "Does the Catholic Church support ecumenism?",
+    "answer": "Yes, the Church desires unity among all Christians while maintaining the fullness of the faith.",
+    "references": ["Unitatis Redintegratio 1", "Catechism 820"],
+    "tags": ["Ecumenism"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 83,
+    "category": "Eschatology",
+    "subcategory": "Death",
+    "question": "What happens after death?",
+    "answer": "Each person undergoes the Particular Judgment, and their soul goes immediately to heaven, hell, or purgatory.",
+    "references": ["Hebrews 9:27", "Catechism 1021-1022"],
+    "tags": ["Eschatology", "Death"],
+    "level": "Basic"
+  },
+  {
+    "id": 84,
+    "category": "Eschatology",
+    "subcategory": "Heaven",
+    "question": "What is heaven?",
+    "answer": "Heaven is the eternal communion with God, where the blessed see Him face to face.",
+    "references": ["Revelation 21:3-4", "Catechism 1023-1029"],
+    "tags": ["Eschatology", "Heaven"],
+    "level": "Basic"
+  },
+  {
+    "id": 85,
+    "category": "Eschatology",
+    "subcategory": "Purgatory",
+    "question": "What is purgatory?",
+    "answer": "Purgatory is a state of purification for souls who die in God's friendship but still need purification before entering heaven.",
+    "references": ["1 Corinthians 3:15", "Catechism 1030-1032"],
+    "tags": ["Eschatology", "Purgatory"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 86,
+    "category": "Eschatology",
+    "subcategory": "Hell",
+    "question": "Does hell exist?",
+    "answer": "Yes, hell is the eternal separation from God for those who freely choose to reject Him.",
+    "references": ["Matthew 25:41", "Catechism 1033-1037"],
+    "tags": ["Eschatology", "Hell"],
+    "level": "Basic"
+  },
+  {
+    "id": 87,
+    "category": "Eschatology",
+    "subcategory": "Last Judgment",
+    "question": "What is the Last Judgment?",
+    "answer": "The Last Judgment is when Christ will come again in glory to judge the living and the dead, and God's justice will be fully revealed.",
+    "references": ["Matthew 25:31-46", "Catechism 1038-1041"],
+    "tags": ["Eschatology", "Last Judgment"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 88,
+    "category": "Eschatology",
+    "subcategory": "New Heaven and New Earth",
+    "question": "What is meant by a 'new heaven and a new earth'?",
+    "answer": "At the end of time, God will renew creation, and the righteous will live forever in a restored creation.",
+    "references": ["Revelation 21:1", "Catechism 1042-1050"],
+    "tags": ["Eschatology", "New Creation"],
+    "level": "Advanced"
+  },
+  {
+    "id": 89,
+    "category": "Prayer",
+    "subcategory": "Definition",
+    "question": "What is prayer?",
+    "answer": "Prayer is the raising of one's mind and heart to God or the requesting of good things from Him.",
+    "references": ["Catechism 2559-2565"],
+    "tags": ["Prayer"],
+    "level": "Basic"
+  },
+  {
+    "id": 90,
+    "category": "Prayer",
+    "subcategory": "Types",
+    "question": "What are the types of prayer?",
+    "answer": "The types of prayer are blessing, adoration, petition, intercession, thanksgiving, and praise.",
+    "references": ["Catechism 2626-2649"],
+    "tags": ["Prayer", "Types"],
+    "level": "Basic"
+  },
+  {
+    "id": 101,
+    "category": "Prayer",
+    "subcategory": "The Lord's Prayer",
+    "question": "Why is the 'Our Father' called the perfect prayer?",
+    "answer": "Because it was taught directly by Jesus and summarizes the whole Gospel.",
+    "references": ["Matthew 6:9-13", "Catechism 2761-2776"],
+    "tags": ["Prayer", "Our Father"],
+    "level": "Basic"
+  },
+  {
+    "id": 102,
+    "category": "Prayer",
+    "subcategory": "Intercessory Prayer",
+    "question": "Why do Catholics pray to saints for intercession?",
+    "answer": "Because the saints, being alive in Christ, can pray for us as part of the communion of saints.",
+    "references": ["Revelation 5:8", "Catechism 956"],
+    "tags": ["Prayer", "Intercession"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 103,
+    "category": "Sacraments",
+    "subcategory": "Definition",
+    "question": "What is a sacrament?",
+    "answer": "A sacrament is an outward sign instituted by Christ to give grace.",
+    "references": ["Catechism 1131"],
+    "tags": ["Sacraments"],
+    "level": "Basic"
+  },
+  {
+    "id": 104,
+    "category": "Sacraments",
+    "subcategory": "Number",
+    "question": "How many sacraments are there?",
+    "answer": "There are seven sacraments: Baptism, Confirmation, Eucharist, Penance, Anointing of the Sick, Holy Orders, and Matrimony.",
+    "references": ["Catechism 1210"],
+    "tags": ["Sacraments"],
+    "level": "Basic"
+  },
+  {
+    "id": 105,
+    "category": "Sacraments",
+    "subcategory": "Baptism",
+    "question": "Why is Baptism necessary for salvation?",
+    "answer": "Because it cleanses us from original sin and makes us members of Christ and His Church.",
+    "references": ["John 3:5", "Catechism 1213"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Basic"
+  },
+  {
+    "id": 106,
+    "category": "Sacraments",
+    "subcategory": "Eucharist",
+    "question": "What is the Eucharist?",
+    "answer": "The Eucharist is the Body, Blood, Soul, and Divinity of Jesus Christ under the appearances of bread and wine.",
+    "references": ["John 6:51", "Catechism 1322-1419"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 107,
+    "category": "Sacraments",
+    "subcategory": "Real Presence",
+    "question": "Do Catholics believe Jesus is truly present in the Eucharist?",
+    "answer": "Yes, Catholics believe in the real presence of Christ in the Eucharist, not merely symbolic.",
+    "references": ["Luke 22:19-20", "Catechism 1374"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 108,
+    "category": "Sacraments",
+    "subcategory": "Penance",
+    "question": "Why confess sins to a priest?",
+    "answer": "Because Christ gave His apostles the authority to forgive sins in His name.",
+    "references": ["John 20:21-23", "Catechism 1441-1445"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 109,
+    "category": "Sacraments",
+    "subcategory": "Anointing of the Sick",
+    "question": "What is the purpose of the Anointing of the Sick?",
+    "answer": "To give spiritual and sometimes physical healing, and to prepare the soul for eternal life if death is near.",
+    "references": ["James 5:14-15", "Catechism 1526-1532"],
+    "tags": ["Sacraments", "Anointing of the Sick"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 110,
+    "category": "Sacraments",
+    "subcategory": "Confirmation",
+    "question": "What is Confirmation?",
+    "answer": "It is the sacrament that strengthens baptismal grace and gives the fullness of the Holy Spirit.",
+    "references": ["Acts 8:14-17", "Catechism 1285-1321"],
+    "tags": ["Sacraments", "Confirmation"],
+    "level": "Basic"
+  },
+  {
+    "id": 111,
+    "category": "Sacraments",
+    "subcategory": "Holy Orders",
+    "question": "What is the sacrament of Holy Orders?",
+    "answer": "It is the sacrament by which men are ordained as bishops, priests, or deacons.",
+    "references": ["1 Timothy 4:14", "Catechism 1536-1600"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 112,
+    "category": "Sacraments",
+    "subcategory": "Matrimony",
+    "question": "What is Christian matrimony?",
+    "answer": "It is a sacrament uniting a baptized man and woman in a lifelong covenant of love and openness to life.",
+    "references": ["Ephesians 5:31-32", "Catechism 1601-1666"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 113,
+    "category": "Mary",
+    "subcategory": "Mother of God",
+    "question": "Why is Mary called the Mother of God?",
+    "answer": "Because she is the mother of Jesus, who is truly God and truly man.",
+    "references": ["Luke 1:43", "Catechism 495"],
+    "tags": ["Mary", "Theotokos"],
+    "level": "Basic"
+  },
+  {
+    "id": 114,
+    "category": "Mary",
+    "subcategory": "Immaculate Conception",
+    "question": "What is the Immaculate Conception?",
+    "answer": "It is the dogma that Mary was conceived without original sin.",
+    "references": ["Luke 1:28", "Catechism 491-492"],
+    "tags": ["Mary", "Immaculate Conception"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 115,
+    "category": "Mary",
+    "subcategory": "Assumption",
+    "question": "What is the Assumption of Mary?",
+    "answer": "It is the dogma that Mary was taken body and soul into heavenly glory at the end of her earthly life.",
+    "references": ["Revelation 12", "Catechism 966"],
+    "tags": ["Mary", "Assumption"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 116,
+    "category": "Mary",
+    "subcategory": "Perpetual Virginity",
+    "question": "Did Mary remain a virgin?",
+    "answer": "Yes, the Church teaches Mary's perpetual virginity before, during, and after the birth of Jesus.",
+    "references": ["Luke 1:34", "Catechism 499-501"],
+    "tags": ["Mary", "Virginity"],
+    "level": "Advanced"
+  },
+  {
+    "id": 117,
+    "category": "Mary",
+    "subcategory": "Mediatrix",
+    "question": "Is Mary the Mediatrix of all graces?",
+    "answer": "Yes, she intercedes for us and distributes graces as a spiritual mother without diminishing Christ's unique mediation.",
+    "references": ["John 2:1-11", "Catechism 969"],
+    "tags": ["Mary", "Mediatrix"],
+    "level": "Advanced"
+  },
+  {
+    "id": 118,
+    "category": "Mary",
+    "subcategory": "Veneration",
+    "question": "Do Catholics worship Mary?",
+    "answer": "No, Catholics venerate Mary but worship God alone.",
+    "references": ["Luke 1:48", "Catechism 971"],
+    "tags": ["Mary", "Veneration"],
+    "level": "Basic"
+  },
+  {
+    "id": 119,
+    "category": "Mary",
+    "subcategory": "Rosary",
+    "question": "Why do Catholics pray the Rosary?",
+    "answer": "The Rosary is a meditation on the life of Christ and a powerful prayer asking for Mary's intercession.",
+    "references": ["Catechism 2678-2679"],
+    "tags": ["Mary", "Rosary"],
+    "level": "Basic"
+  },
+  {
+    "id": 120,
+    "category": "Mary",
+    "subcategory": "Apparitions",
+    "question": "Are Marian apparitions required beliefs?",
+    "answer": "No, but approved apparitions can help deepen faith and devotion.",
+    "references": ["Catechism 67"],
+    "tags": ["Mary", "Apparitions"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 121,
+    "category": "Mary",
+    "subcategory": "Titles",
+    "question": "Why is Mary called Queen of Heaven?",
+    "answer": "Because as the Mother of the King of Kings, she shares in His royal dignity.",
+    "references": ["Revelation 12:1", "Catechism 966"],
+    "tags": ["Mary", "Queen of Heaven"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 122,
+    "category": "Mary",
+    "subcategory": "Mother of the Church",
+    "question": "Why is Mary called the Mother of the Church?",
+    "answer": "Because she is the mother of Christ who is the Head of the Church, and she was given to us as our mother at the foot of the Cross.",
+    "references": ["John 19:26-27", "Catechism 963"],
+    "tags": ["Mary", "Mother of the Church"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 123,
+    "category": "Church",
+    "subcategory": "Marks of the Church",
+    "question": "What are the four marks of the Church?",
+    "answer": "The Church is One, Holy, Catholic, and Apostolic.",
+    "references": ["Nicene Creed", "Catechism 811-870"],
+    "tags": ["Church", "Marks"],
+    "level": "Basic"
+  },
+  {
+    "id": 124,
+    "category": "Church",
+    "subcategory": "Infallibility",
+    "question": "What is Papal Infallibility?",
+    "answer": "The Pope, when speaking ex cathedra on matters of faith and morals, is preserved from error by the Holy Spirit.",
+    "references": ["Matthew 16:18", "Catechism 891"],
+    "tags": ["Church", "Papal Infallibility"],
+    "level": "Advanced"
+  },
+  {
+    "id": 125,
+    "category": "Church",
+    "subcategory": "Apostolic Succession",
+    "question": "What is Apostolic Succession?",
+    "answer": "It is the unbroken transmission of spiritual authority from the apostles to the present-day bishops.",
+    "references": ["Acts 1:20-26", "Catechism 861-862"],
+    "tags": ["Church", "Apostolic Succession"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 126,
+    "category": "Church",
+    "subcategory": "Hierarchy",
+    "question": "Who makes up the hierarchy of the Church?",
+    "answer": "The hierarchy consists of bishops, priests, and deacons.",
+    "references": ["Catechism 874-879"],
+    "tags": ["Church", "Hierarchy"],
+    "level": "Basic"
+  },
+  {
+    "id": 127,
+    "category": "Church",
+    "subcategory": "Magisterium",
+    "question": "What is the Magisterium?",
+    "answer": "It is the teaching office of the Church, consisting of the Pope and bishops in communion with him.",
+    "references": ["Catechism 85-87"],
+    "tags": ["Church", "Magisterium"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 128,
+    "category": "Church",
+    "subcategory": "Catholic",
+    "question": "What does the word 'Catholic' mean?",
+    "answer": "It means 'universal', indicating that the Church is for all people in all times and places.",
+    "references": ["Matthew 28:19", "Catechism 830-831"],
+    "tags": ["Church", "Catholic"],
+    "level": "Basic"
+  },
+  {
+    "id": 129,
+    "category": "Church",
+    "subcategory": "Holy",
+    "question": "How is the Church holy despite the sins of its members?",
+    "answer": "Because Christ is holy and gave the Church the means of holiness through the sacraments and teaching.",
+    "references": ["Ephesians 5:25-27", "Catechism 823-829"],
+    "tags": ["Church", "Holiness"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 130,
+    "category": "Church",
+    "subcategory": "Communion of Saints",
+    "question": "What is the Communion of Saints?",
+    "answer": "It is the spiritual union of all members of Christ's Body, living and deceased.",
+    "references": ["Hebrews 12:1", "Catechism 946-962"],
+    "tags": ["Church", "Communion of Saints"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 131,
+    "category": "Church",
+    "subcategory": "Church and Salvation",
+    "question": "Is the Catholic Church necessary for salvation?",
+    "answer": "Yes, because Christ entrusted the means of salvation to His Church, though non-Catholics may also be saved under certain conditions.",
+    "references": ["Catechism 846-848"],
+    "tags": ["Church", "Salvation"],
+    "level": "Advanced"
+  },
+  {
+    "id": 132,
+    "category": "Church",
+    "subcategory": "Laity",
+    "question": "What is the role of the laity in the Church?",
+    "answer": "The laity are called to sanctify the world and participate in the Church's mission by living holy lives and evangelizing.",
+    "references": ["Catechism 897-913"],
+    "tags": ["Church", "Laity"],
+    "level": "Basic"
+  },
+  {
+    "id": 133,
+    "category": "Church",
+    "subcategory": "Ecumenism",
+    "question": "What is Ecumenism?",
+    "answer": "It is the effort to seek unity among all Christians.",
+    "references": ["John 17:21", "Catechism 820-822"],
+    "tags": ["Church", "Ecumenism"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 134,
+    "category": "Church",
+    "subcategory": "Evangelization",
+    "question": "What is the mission of evangelization?",
+    "answer": "To proclaim the Gospel and make disciples of all nations.",
+    "references": ["Matthew 28:19-20", "Catechism 849-856"],
+    "tags": ["Church", "Evangelization"],
+    "level": "Basic"
+  },
+  {
+    "id": 135,
+    "category": "Church",
+    "subcategory": "Religious Life",
+    "question": "What is Religious Life?",
+    "answer": "A consecrated life marked by poverty, chastity, and obedience to live the Gospel more radically.",
+    "references": ["Catechism 914-933"],
+    "tags": ["Church", "Religious Life"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 136,
+    "category": "Church",
+    "subcategory": "Schism",
+    "question": "What is a schism?",
+    "answer": "The refusal of submission to the Roman Pontiff or of communion with the members of the Church subject to him.",
+    "references": ["Catechism 2089"],
+    "tags": ["Church", "Schism"],
+    "level": "Advanced"
+  },
+  {
+    "id": 137,
+    "category": "Church",
+    "subcategory": "Heresy",
+    "question": "What is heresy?",
+    "answer": "The obstinate denial after baptism of a truth that must be believed with divine and Catholic faith.",
+    "references": ["Catechism 2089"],
+    "tags": ["Church", "Heresy"],
+    "level": "Advanced"
+  },
+  {
+    "id": 138,
+    "category": "Church",
+    "subcategory": "Apostasy",
+    "question": "What is apostasy?",
+    "answer": "The total repudiation of the Christian faith.",
+    "references": ["Catechism 2089"],
+    "tags": ["Church", "Apostasy"],
+    "level": "Advanced"
+  },
+  {
+    "id": 139,
+    "category": "Church",
+    "subcategory": "Sacred Tradition",
+    "question": "What is Sacred Tradition?",
+    "answer": "It is the living transmission of the Gospel, handed down through the apostles and their successors.",
+    "references": ["2 Thessalonians 2:15", "Catechism 78-83"],
+    "tags": ["Church", "Sacred Tradition"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 140,
+    "category": "Church",
+    "subcategory": "Sacred Scripture",
+    "question": "What is Sacred Scripture?",
+    "answer": "The inspired Word of God contained in the books of the Old and New Testaments.",
+    "references": ["2 Timothy 3:16", "Catechism 105-108"],
+    "tags": ["Church", "Sacred Scripture"],
+    "level": "Basic"
+  },
+  {
+    "id": 141,
+    "category": "Sacraments",
+    "subcategory": "General",
+    "question": "What is a sacrament?",
+    "answer": "A sacrament is an outward sign instituted by Christ to give grace.",
+    "references": ["Catechism 1131"],
+    "tags": ["Sacraments", "Grace"],
+    "level": "Basic"
+  },
+  {
+    "id": 142,
+    "category": "Sacraments",
+    "subcategory": "Baptism",
+    "question": "What is the significance of Baptism?",
+    "answer": "Baptism cleanses us from original sin, makes us members of the Church, and gives us new life in Christ.",
+    "references": ["John 3:5", "Catechism 1213-1284"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Basic"
+  },
+  {
+    "id": 143,
+    "category": "Sacraments",
+    "subcategory": "Eucharist",
+    "question": "What is the Eucharist?",
+    "answer": "The Eucharist is the Body, Blood, Soul, and Divinity of Jesus Christ under the appearance of bread and wine.",
+    "references": ["John 6:51", "Catechism 1322-1419"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 144,
+    "category": "Sacraments",
+    "subcategory": "Confirmation",
+    "question": "What does Confirmation do?",
+    "answer": "It strengthens the grace of Baptism, gives the gifts of the Holy Spirit, and binds us more closely to the Church.",
+    "references": ["Acts 8:14-17", "Catechism 1285-1321"],
+    "tags": ["Sacraments", "Confirmation"],
+    "level": "Basic"
+  },
+  {
+    "id": 145,
+    "category": "Sacraments",
+    "subcategory": "Confession",
+    "question": "Why is Confession necessary?",
+    "answer": "Because through it, sins committed after Baptism are forgiven by God through the ministry of the Church.",
+    "references": ["John 20:22-23", "Catechism 1422-1498"],
+    "tags": ["Sacraments", "Confession"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 146,
+    "category": "Sacraments",
+    "subcategory": "Anointing of the Sick",
+    "question": "What is the Anointing of the Sick?",
+    "answer": "A sacrament given to the seriously ill or elderly, providing grace, strength, and sometimes physical healing.",
+    "references": ["James 5:14-15", "Catechism 1499-1532"],
+    "tags": ["Sacraments", "Anointing"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 147,
+    "category": "Sacraments",
+    "subcategory": "Matrimony",
+    "question": "What is the Sacrament of Matrimony?",
+    "answer": "It is the covenant by which a man and woman establish a partnership of the whole of life, ordered to the good of the spouses and the procreation of children.",
+    "references": ["Genesis 2:24", "Catechism 1601-1666"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Basic"
+  },
+  {
+    "id": 148,
+    "category": "Sacraments",
+    "subcategory": "Holy Orders",
+    "question": "What is Holy Orders?",
+    "answer": "The sacrament through which the mission entrusted by Christ to His apostles continues to be exercised in the Church.",
+    "references": ["2 Timothy 1:6", "Catechism 1536-1600"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 149,
+    "category": "Sacraments",
+    "subcategory": "Validity",
+    "question": "What is required for a sacrament to be valid?",
+    "answer": "Proper matter, form, and intention of the minister are necessary for validity.",
+    "references": ["Catechism 1121"],
+    "tags": ["Sacraments", "Validity"],
+    "level": "Advanced"
+  },
+  {
+    "id": 150,
+    "category": "Sacraments",
+    "subcategory": "Sacramental Character",
+    "question": "Which sacraments imprint an indelible mark on the soul?",
+    "answer": "Baptism, Confirmation, and Holy Orders.",
+    "references": ["Catechism 1121"],
+    "tags": ["Sacraments", "Sacramental Character"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 151,
+    "category": "Sacraments",
+    "subcategory": "Efficacy",
+    "question": "Do sacraments work by the holiness of the minister?",
+    "answer": "No, they work ex opere operato, by the power of Christ Himself.",
+    "references": ["Catechism 1128"],
+    "tags": ["Sacraments", "Efficacy"],
+    "level": "Advanced"
+  },
+  {
+    "id": 152,
+    "category": "Sacraments",
+    "subcategory": "Eucharistic Presence",
+    "question": "What is the doctrine of the Real Presence?",
+    "answer": "Jesus is truly present in the Eucharist—Body, Blood, Soul, and Divinity.",
+    "references": ["John 6:51", "Catechism 1374"],
+    "tags": ["Sacraments", "Real Presence"],
+    "level": "Basic"
+  },
+  {
+    "id": 153,
+    "category": "Sacraments",
+    "subcategory": "Transubstantiation",
+    "question": "What is transubstantiation?",
+    "answer": "The change of the whole substance of bread and wine into the Body and Blood of Christ, while the appearances remain.",
+    "references": ["Catechism 1376"],
+    "tags": ["Sacraments", "Transubstantiation"],
+    "level": "Advanced"
+  },
+  {
+    "id": 154,
+    "category": "Sacraments",
+    "subcategory": "Eucharistic Adoration",
+    "question": "Why do Catholics practice Eucharistic Adoration?",
+    "answer": "Because Jesus is truly present in the Eucharist and is worthy of worship outside of Mass.",
+    "references": ["Catechism 1378"],
+    "tags": ["Sacraments", "Eucharistic Adoration"],
+    "level": "Basic"
+  },
+  {
+    "id": 155,
+    "category": "Sacraments",
+    "subcategory": "Worthy Reception",
+    "question": "Who can receive the Eucharist worthily?",
+    "answer": "Those in a state of grace, who have fasted and believe in the Real Presence.",
+    "references": ["1 Corinthians 11:27-29", "Catechism 1385-1389"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 156,
+    "category": "Sacraments",
+    "subcategory": "Frequency",
+    "question": "How often should Catholics receive the Eucharist?",
+    "answer": "Catholics are encouraged to receive frequently, even daily if properly disposed.",
+    "references": ["Catechism 1389"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 157,
+    "category": "Sacraments",
+    "subcategory": "Confession Frequency",
+    "question": "How often should Catholics go to Confession?",
+    "answer": "The Church recommends monthly Confession, but at least once a year is required.",
+    "references": ["Catechism 1457"],
+    "tags": ["Sacraments", "Confession"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 158,
+    "category": "Sacraments",
+    "subcategory": "Matter and Form",
+    "question": "What are 'matter' and 'form' in sacraments?",
+    "answer": "Matter is the physical sign; form is the spoken words necessary for validity.",
+    "references": ["Catechism 1121"],
+    "tags": ["Sacraments", "Validity"],
+    "level": "Advanced"
+  },
+  {
+    "id": 159,
+    "category": "Sacraments",
+    "subcategory": "Minister",
+    "question": "Who is the ordinary minister of Baptism?",
+    "answer": "A bishop, priest, or deacon; but anyone can baptize in an emergency.",
+    "references": ["Catechism 1256"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Basic"
+  },
+  {
+    "id": 160,
+    "category": "Sacraments",
+    "subcategory": "Holy Orders Degrees",
+    "question": "What are the three degrees of Holy Orders?",
+    "answer": "Bishop, priest, and deacon.",
+    "references": ["Catechism 1536"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Basic"
+  },
+  {
+    "id": 161,
+    "category": "Sacraments",
+    "subcategory": "Ordination Effects",
+    "question": "What effects does Holy Orders confer?",
+    "answer": "It configures the recipient to Christ in a special way and enables them to act in persona Christi (in the person of Christ).",
+    "references": ["Catechism 1581-1584"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 162,
+    "category": "Sacraments",
+    "subcategory": "Matrimony Ministers",
+    "question": "Who are the ministers of Matrimony?",
+    "answer": "In the Latin Church, the spouses themselves are the ministers of the sacrament.",
+    "references": ["Catechism 1623-1624"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Advanced"
+  },
+  {
+    "id": 163,
+    "category": "Sacraments",
+    "subcategory": "Indissolubility",
+    "question": "Why is marriage indissoluble?",
+    "answer": "Because it reflects the unbreakable bond between Christ and His Church.",
+    "references": ["Matthew 19:6", "Catechism 1640"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 164,
+    "category": "Sacraments",
+    "subcategory": "Anointing Recipient",
+    "question": "Who can receive the Anointing of the Sick?",
+    "answer": "Any baptized Catholic who is seriously ill, elderly, or facing major surgery.",
+    "references": ["Catechism 1514-1515"],
+    "tags": ["Sacraments", "Anointing"],
+    "level": "Basic"
+  },
+  {
+    "id": 165,
+    "category": "Sacraments",
+    "subcategory": "Effects of Anointing",
+    "question": "What are the effects of the Anointing of the Sick?",
+    "answer": "Grace to endure suffering, forgiveness of sins if unable to confess, and sometimes physical healing.",
+    "references": ["Catechism 1520-1523"],
+    "tags": ["Sacraments", "Anointing"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 166,
+    "category": "Sacraments",
+    "subcategory": "Viaticum",
+    "question": "What is Viaticum?",
+    "answer": "It is the Eucharist given to those who are dying as food for the journey to eternal life.",
+    "references": ["Catechism 1524-1525"],
+    "tags": ["Sacraments", "Eucharist", "Anointing"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 167,
+    "category": "Sacraments",
+    "subcategory": "Minister of Confirmation",
+    "question": "Who is the ordinary minister of Confirmation?",
+    "answer": "The bishop is the ordinary minister, though priests may confirm under certain conditions.",
+    "references": ["Catechism 1312-1314"],
+    "tags": ["Sacraments", "Confirmation"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 168,
+    "category": "Sacraments",
+    "subcategory": "Necessity of Baptism",
+    "question": "Is Baptism necessary for salvation?",
+    "answer": "Yes, for those who have heard the Gospel and had the possibility of requesting it.",
+    "references": ["John 3:5", "Catechism 1257-1261"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Advanced"
+  },
+  {
+    "id": 169,
+    "category": "Sacraments",
+    "subcategory": "Baptism of Desire",
+    "question": "What is Baptism of desire?",
+    "answer": "It is the desire for Baptism, along with repentance and charity, that can suffice for salvation.",
+    "references": ["Catechism 1260"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Advanced"
+  },
+  {
+    "id": 170,
+    "category": "Sacraments",
+    "subcategory": "Baptism of Blood",
+    "question": "What is Baptism of blood?",
+    "answer": "Martyrdom for Christ can replace sacramental Baptism for salvation.",
+    "references": ["Catechism 1258"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Advanced"
+  },
+  {
+    "id": 171,
+    "category": "Sacraments",
+    "subcategory": "Eucharist Prefigured",
+    "question": "How is the Eucharist prefigured in the Old Testament?",
+    "answer": "In the manna from Heaven and the Passover lamb.",
+    "references": ["Exodus 12", "John 6:32-35"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 172,
+    "category": "Sacraments",
+    "subcategory": "Confession Institution",
+    "question": "When did Christ institute the Sacrament of Confession?",
+    "answer": "When He gave the apostles the power to forgive sins after His resurrection.",
+    "references": ["John 20:22-23"],
+    "tags": ["Sacraments", "Confession"],
+    "level": "Basic"
+  },
+  {
+    "id": 173,
+    "category": "Sacraments",
+    "subcategory": "Seal of Confession",
+    "question": "What is the Seal of Confession?",
+    "answer": "It is the absolute confidentiality required of the priest regarding sins confessed.",
+    "references": ["Catechism 1467"],
+    "tags": ["Sacraments", "Confession"],
+    "level": "Advanced"
+  },
+  {
+    "id": 174,
+    "category": "Sacraments",
+    "subcategory": "Confession Form",
+    "question": "What is the essential form of Confession?",
+    "answer": "The words of absolution spoken by the priest.",
+    "references": ["Catechism 1449"],
+    "tags": ["Sacraments", "Confession"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 175,
+    "category": "Sacraments",
+    "subcategory": "Perfect Contrition",
+    "question": "What is perfect contrition?",
+    "answer": "Sorrow for sin out of love for God, which can reconcile one with God even before Confession if the intention is to confess soon.",
+    "references": ["Catechism 1452"],
+    "tags": ["Sacraments", "Confession"],
+    "level": "Advanced"
+  },
+  {
+    "id": 176,
+    "category": "Sacraments",
+    "subcategory": "Imperfect Contrition",
+    "question": "What is imperfect contrition?",
+    "answer": "Sorrow for sin out of fear of punishment, which suffices for Confession but not for immediate reconciliation without it.",
+    "references": ["Catechism 1453"],
+    "tags": ["Sacraments", "Confession"],
+    "level": "Advanced"
+  },
+  {
+    "id": 177,
+    "category": "Sacraments",
+    "subcategory": "Eucharistic Obligation",
+    "question": "Is participation in the Mass obligatory?",
+    "answer": "Yes, every Sunday and holy day of obligation under pain of mortal sin if deliberately missed without grave reason.",
+    "references": ["Catechism 2181"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 178,
+    "category": "Sacraments",
+    "subcategory": "Anointing Repetition",
+    "question": "Can the Anointing of the Sick be repeated?",
+    "answer": "Yes, whenever the sick person faces a new danger or worsens.",
+    "references": ["Catechism 1515"],
+    "tags": ["Sacraments", "Anointing"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 179,
+    "category": "Sacraments",
+    "subcategory": "Marriage Consent",
+    "question": "What is the essential element of Matrimony?",
+    "answer": "The free consent of the spouses.",
+    "references": ["Catechism 1625-1632"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Basic"
+  },
+  {
+    "id": 180,
+    "category": "Sacraments",
+    "subcategory": "Marital Unity",
+    "question": "What are the two essential properties of marriage?",
+    "answer": "Unity and indissolubility.",
+    "references": ["Catechism 1644"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 181,
+    "category": "Sacraments",
+    "subcategory": "Mixed Marriage",
+    "question": "What is a mixed marriage?",
+    "answer": "A marriage between a baptized Catholic and a baptized non-Catholic Christian.",
+    "references": ["Catechism 1633-1637"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 182,
+    "category": "Sacraments",
+    "subcategory": "Disparity of Cult",
+    "question": "What is disparity of cult?",
+    "answer": "A marriage between a baptized Catholic and a non-baptized person.",
+    "references": ["Catechism 1633-1637"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 183,
+    "category": "Sacraments",
+    "subcategory": "Validity of Mixed Marriage",
+    "question": "What is required for the validity of a mixed marriage?",
+    "answer": "Permission from ecclesiastical authority.",
+    "references": ["Catechism 1635"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Advanced"
+  },
+  {
+    "id": 184,
+    "category": "Sacraments",
+    "subcategory": "Validity of Disparity of Cult",
+    "question": "What is required for the validity of a marriage with disparity of cult?",
+    "answer": "A dispensation from the local bishop.",
+    "references": ["Catechism 1635"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Advanced"
+  },
+  {
+    "id": 185,
+    "category": "Sacraments",
+    "subcategory": "Eucharist and Unity",
+    "question": "Why is the Eucharist a sign of unity?",
+    "answer": "Because it unites us to Christ and to each other in one Body.",
+    "references": ["1 Corinthians 10:17", "Catechism 1325"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 186,
+    "category": "Sacraments",
+    "subcategory": "Eucharistic Adoration",
+    "question": "What is Eucharistic adoration?",
+    "answer": "It is the worship and adoration of Christ truly present in the Eucharist outside of Mass.",
+    "references": ["Catechism 1378-1380"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 187,
+    "category": "Sacraments",
+    "subcategory": "Eucharistic Fast",
+    "question": "What is the Eucharistic fast?",
+    "answer": "It is abstaining from food and drink (except water and medicine) for at least one hour before receiving Holy Communion.",
+    "references": ["Canon Law 919"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 188,
+    "category": "Sacraments",
+    "subcategory": "Minister of Baptism",
+    "question": "Who is the ordinary minister of Baptism?",
+    "answer": "A bishop, priest, or deacon; but anyone with the right intention can baptize in case of necessity.",
+    "references": ["Catechism 1256"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 189,
+    "category": "Sacraments",
+    "subcategory": "Marriage Preparation",
+    "question": "What does the Church require before marriage?",
+    "answer": "Proper preparation, catechesis, and investigation of the parties' freedom to marry.",
+    "references": ["Catechism 1625-1637"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 190,
+    "category": "Sacraments",
+    "subcategory": "Nuptial Blessing",
+    "question": "What is the Nuptial Blessing?",
+    "answer": "A special blessing given to the couple during the celebration of Matrimony.",
+    "references": ["Catechism 1621"],
+    "tags": ["Sacraments", "Matrimony"],
+    "level": "Basic"
+  },
+  {
+    "id": 191,
+    "category": "Sacraments",
+    "subcategory": "Efficacy of Sacraments",
+    "question": "How are sacraments efficacious?",
+    "answer": "They confer grace by the very fact of the action being performed (ex opere operato).",
+    "references": ["Catechism 1128"],
+    "tags": ["Sacraments", "Grace"],
+    "level": "Advanced"
+  },
+  {
+    "id": 192,
+    "category": "Sacraments",
+    "subcategory": "Sacramental Character",
+    "question": "What is a sacramental character?",
+    "answer": "An indelible spiritual mark conferred by Baptism, Confirmation, and Holy Orders.",
+    "references": ["Catechism 1121"],
+    "tags": ["Sacraments", "Grace"],
+    "level": "Advanced"
+  },
+  {
+    "id": 193,
+    "category": "Sacraments",
+    "subcategory": "Matter and Form",
+    "question": "What is meant by matter and form of a sacrament?",
+    "answer": "The matter is the physical element and the form is the essential words required.",
+    "references": ["Catechism 1125"],
+    "tags": ["Sacraments", "Grace"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 194,
+    "category": "Sacraments",
+    "subcategory": "Minister Intention",
+    "question": "Does the intention of the minister affect the validity of a sacrament?",
+    "answer": "Yes, the minister must intend to do what the Church does.",
+    "references": ["Catechism 1128"],
+    "tags": ["Sacraments", "Grace"],
+    "level": "Advanced"
+  },
+  {
+    "id": 195,
+    "category": "Sacraments",
+    "subcategory": "Recipients' Disposition",
+    "question": "Does the recipient's disposition affect the fruitfulness of a sacrament?",
+    "answer": "Yes, the sacraments confer grace but require proper disposition to bear fruit.",
+    "references": ["Catechism 1131"],
+    "tags": ["Sacraments", "Grace"],
+    "level": "Advanced"
+  },
+  {
+    "id": 196,
+    "category": "Sacraments",
+    "subcategory": "Number of Sacraments",
+    "question": "How many sacraments are there?",
+    "answer": "There are seven sacraments.",
+    "references": ["Catechism 1113"],
+    "tags": ["Sacraments", "Overview"],
+    "level": "Basic"
+  },
+  {
+    "id": 197,
+    "category": "Sacraments",
+    "subcategory": "Institutor of Sacraments",
+    "question": "Who instituted the sacraments?",
+    "answer": "Jesus Christ.",
+    "references": ["Catechism 1114"],
+    "tags": ["Sacraments", "Overview"],
+    "level": "Basic"
+  },
+  {
+    "id": 198,
+    "category": "Sacraments",
+    "subcategory": "Sacraments and the Church",
+    "question": "What is the relationship between sacraments and the Church?",
+    "answer": "The Church is the universal sacrament of salvation, and she dispenses the sacraments.",
+    "references": ["Catechism 774-776"],
+    "tags": ["Sacraments", "Overview"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 199,
+    "category": "Sacraments",
+    "subcategory": "Sacraments and Grace",
+    "question": "What is sacramental grace?",
+    "answer": "It is the grace proper to each sacrament, helping us live according to Christ.",
+    "references": ["Catechism 1129"],
+    "tags": ["Sacraments", "Grace"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 200,
+    "category": "Sacraments",
+    "subcategory": "Sacraments and Eternal Life",
+    "question": "How do sacraments relate to eternal life?",
+    "answer": "They are necessary means to persevere in grace and reach Heaven.",
+    "references": ["Catechism 1131"],
+    "tags": ["Sacraments", "Grace"],
+    "level": "Advanced"
+  },
+  {
+    "id": 201,
+    "category": "Sacraments",
+    "subcategory": "Sacraments of Initiation",
+    "question": "What are the Sacraments of Initiation?",
+    "answer": "Baptism, Confirmation, and the Eucharist.",
+    "references": ["Catechism 1212"],
+    "tags": ["Sacraments", "Initiation"],
+    "level": "Basic"
+  },
+  {
+    "id": 202,
+    "category": "Sacraments",
+    "subcategory": "Sacraments of Healing",
+    "question": "What are the Sacraments of Healing?",
+    "answer": "Penance (Confession) and Anointing of the Sick.",
+    "references": ["Catechism 1421"],
+    "tags": ["Sacraments", "Healing"],
+    "level": "Basic"
+  },
+  {
+    "id": 203,
+    "category": "Sacraments",
+    "subcategory": "Sacraments at the Service of Communion",
+    "question": "What are the Sacraments at the Service of Communion?",
+    "answer": "Holy Orders and Matrimony.",
+    "references": ["Catechism 1534"],
+    "tags": ["Sacraments", "Service"],
+    "level": "Basic"
+  },
+  {
+    "id": 204,
+    "category": "Sacraments",
+    "subcategory": "Sacrament of Baptism",
+    "question": "What is the sacrament of Baptism?",
+    "answer": "The first sacrament of initiation that frees us from original sin and makes us children of God.",
+    "references": ["Catechism 1213"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Basic"
+  },
+  {
+    "id": 205,
+    "category": "Sacraments",
+    "subcategory": "Matter of Baptism",
+    "question": "What is the matter of Baptism?",
+    "answer": "Water.",
+    "references": ["Catechism 1239"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Basic"
+  },
+  {
+    "id": 206,
+    "category": "Sacraments",
+    "subcategory": "Form of Baptism",
+    "question": "What is the form of Baptism?",
+    "answer": "The words: \"I baptize you in the name of the Father, and of the Son, and of the Holy Spirit.\"",
+    "references": ["Catechism 1240"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Basic"
+  },
+  {
+    "id": 207,
+    "category": "Sacraments",
+    "subcategory": "Baptism and Salvation",
+    "question": "Is Baptism necessary for salvation?",
+    "answer": "Yes, according to Christ's command, but God is not bound by His sacraments.",
+    "references": ["Catechism 1257-1261"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Advanced"
+  },
+  {
+    "id": 208,
+    "category": "Sacraments",
+    "subcategory": "Baptism of Desire",
+    "question": "What is Baptism of Desire?",
+    "answer": "When someone who desires Baptism but dies before receiving it is saved by their desire.",
+    "references": ["Catechism 1258"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 209,
+    "category": "Sacraments",
+    "subcategory": "Baptism of Blood",
+    "question": "What is Baptism of Blood?",
+    "answer": "Martyrs who die for the faith receive the fruits of Baptism without water.",
+    "references": ["Catechism 1258"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 210,
+    "category": "Sacraments",
+    "subcategory": "Effects of Baptism",
+    "question": "What are the effects of Baptism?",
+    "answer": "Remission of sins, new birth in Christ, incorporation into the Church, and the sacramental character.",
+    "references": ["Catechism 1262-1274"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 211,
+    "category": "Sacraments",
+    "subcategory": "Infant Baptism",
+    "question": "Why does the Church baptize infants?",
+    "answer": "Because they are born with original sin and need the grace of Baptism.",
+    "references": ["Catechism 1250-1252"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 212,
+    "category": "Sacraments",
+    "subcategory": "Responsibilities of Baptized",
+    "question": "What responsibilities follow from Baptism?",
+    "answer": "Living a Christian life, spreading the faith, and avoiding sin.",
+    "references": ["Catechism 1273"],
+    "tags": ["Sacraments", "Baptism"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 213,
+    "category": "Sacraments",
+    "subcategory": "Confirmation",
+    "question": "What is Confirmation?",
+    "answer": "The sacrament that completes Baptism and strengthens us with the gifts of the Holy Spirit.",
+    "references": ["Catechism 1285"],
+    "tags": ["Sacraments", "Confirmation"],
+    "level": "Basic"
+  },
+  {
+    "id": 214,
+    "category": "Sacraments",
+    "subcategory": "Matter of Confirmation",
+    "question": "What is the matter of Confirmation?",
+    "answer": "Sacred Chrism (holy oil) and the laying on of hands.",
+    "references": ["Catechism 1293"],
+    "tags": ["Sacraments", "Confirmation"],
+    "level": "Basic"
+  },
+  {
+    "id": 215,
+    "category": "Sacraments",
+    "subcategory": "Form of Confirmation",
+    "question": "What is the form of Confirmation?",
+    "answer": "The words: \"Be sealed with the gift of the Holy Spirit.\"",
+    "references": ["Catechism 1300"],
+    "tags": ["Sacraments", "Confirmation"],
+    "level": "Basic"
+  },
+  {
+    "id": 216,
+    "category": "Sacraments",
+    "subcategory": "Minister of Confirmation",
+    "question": "Who is the ordinary minister of Confirmation?",
+    "answer": "The bishop.",
+    "references": ["Catechism 1312"],
+    "tags": ["Sacraments", "Confirmation"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 217,
+    "category": "Sacraments",
+    "subcategory": "Effects of Confirmation",
+    "question": "What are the effects of Confirmation?",
+    "answer": "Increase of baptismal grace, deeper bond with the Church, and strength to witness to Christ.",
+    "references": ["Catechism 1302-1305"],
+    "tags": ["Sacraments", "Confirmation"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 218,
+    "category": "Sacraments",
+    "subcategory": "Confirmation and Evangelization",
+    "question": "Why is Confirmation linked to evangelization?",
+    "answer": "Because it strengthens the Christian to spread and defend the faith.",
+    "references": ["Catechism 1303"],
+    "tags": ["Sacraments", "Confirmation"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 219,
+    "category": "Sacraments",
+    "subcategory": "Confirmation Sponsor",
+    "question": "Who can be a Confirmation sponsor?",
+    "answer": "A confirmed and practicing Catholic who can help the confirmed person live the faith.",
+    "references": ["Catechism 1311"],
+    "tags": ["Sacraments", "Confirmation"],
+    "level": "Basic"
+  },
+  {
+    "id": 220,
+    "category": "Sacraments",
+    "subcategory": "Confirmation Name",
+    "question": "Why is a Confirmation name chosen?",
+    "answer": "To adopt the name of a saint as a model and intercessor.",
+    "references": ["Traditional Practice"],
+    "tags": ["Sacraments", "Confirmation"],
+    "level": "Basic"
+  },
+  {
+    "id": 221,
+    "category": "Sacraments",
+    "subcategory": "Eucharist",
+    "question": "What is the Eucharist?",
+    "answer": "The sacrament that makes present the Body and Blood of Christ under the appearances of bread and wine.",
+    "references": ["Catechism 1322-1327"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 222,
+    "category": "Sacraments",
+    "subcategory": "Institution of the Eucharist",
+    "question": "When was the Eucharist instituted?",
+    "answer": "At the Last Supper.",
+    "references": ["Luke 22:19-20", "Catechism 1337"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 223,
+    "category": "Sacraments",
+    "subcategory": "Matter of the Eucharist",
+    "question": "What is the matter of the Eucharist?",
+    "answer": "Wheat bread and grape wine.",
+    "references": ["Catechism 1412"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 224,
+    "category": "Sacraments",
+    "subcategory": "Form of the Eucharist",
+    "question": "What is the form of the Eucharist?",
+    "answer": "The words of consecration spoken by the priest.",
+    "references": ["Catechism 1412"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 225,
+    "category": "Sacraments",
+    "subcategory": "Real Presence",
+    "question": "What is the Real Presence?",
+    "answer": "The true Body, Blood, Soul, and Divinity of Jesus Christ in the Eucharist.",
+    "references": ["Catechism 1374"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 226,
+    "category": "Sacraments",
+    "subcategory": "Transubstantiation",
+    "question": "What is Transubstantiation?",
+    "answer": "The change of the substance of bread and wine into the Body and Blood of Christ, while the appearances remain.",
+    "references": ["Catechism 1376"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 227,
+    "category": "Sacraments",
+    "subcategory": "Effects of the Eucharist",
+    "question": "What are the effects of receiving the Eucharist?",
+    "answer": "Increases union with Christ, forgives venial sins, and strengthens charity.",
+    "references": ["Catechism 1391-1397"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 228,
+    "category": "Sacraments",
+    "subcategory": "Eucharist and Mortal Sin",
+    "question": "Can one receive the Eucharist in a state of mortal sin?",
+    "answer": "No, one must first go to confession.",
+    "references": ["Catechism 1385"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 229,
+    "category": "Sacraments",
+    "subcategory": "Eucharistic Fast",
+    "question": "What is the Eucharistic fast?",
+    "answer": "Abstaining from food and drink (except water and medicine) for one hour before Communion.",
+    "references": ["Canon Law 919"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 230,
+    "category": "Sacraments",
+    "subcategory": "Sunday Obligation",
+    "question": "Is attending Mass on Sundays and holy days obligatory?",
+    "answer": "Yes, it is a grave obligation.",
+    "references": ["Catechism 2180-2183"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 231,
+    "category": "Sacraments",
+    "subcategory": "Frequency of Communion",
+    "question": "How often should Catholics receive Communion?",
+    "answer": "As often as possible, even daily, provided they are properly disposed.",
+    "references": ["Catechism 1389"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 232,
+    "category": "Sacraments",
+    "subcategory": "First Communion",
+    "question": "When do children usually receive First Communion?",
+    "answer": "Around the age of reason, usually seven years old.",
+    "references": ["Catechism 1457"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 233,
+    "category": "Sacraments",
+    "subcategory": "Holy Sacrifice of the Mass",
+    "question": "What is the Holy Sacrifice of the Mass?",
+    "answer": "The re-presentation of Christ's one sacrifice on the Cross.",
+    "references": ["Catechism 1366"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 234,
+    "category": "Sacraments",
+    "subcategory": "Minister of the Eucharist",
+    "question": "Who is the ordinary minister of the Eucharist?",
+    "answer": "A validly ordained bishop or priest.",
+    "references": ["Catechism 1411"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 235,
+    "category": "Sacraments",
+    "subcategory": "Extraordinary Ministers",
+    "question": "Who can be an extraordinary minister of Holy Communion?",
+    "answer": "A properly deputed and trained layperson in cases of necessity.",
+    "references": ["Catechism 1411"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 236,
+    "category": "Sacraments",
+    "subcategory": "Tabernacle",
+    "question": "What is the tabernacle?",
+    "answer": "A locked box in the church where the Eucharist is reserved.",
+    "references": ["Catechism 1183"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 237,
+    "category": "Sacraments",
+    "subcategory": "Eucharistic Adoration",
+    "question": "What is Eucharistic Adoration?",
+    "answer": "Worshiping Christ present in the Blessed Sacrament exposed for adoration.",
+    "references": ["Catechism 1378"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 238,
+    "category": "Sacraments",
+    "subcategory": "Eucharist as Thanksgiving",
+    "question": "What does the word Eucharist mean?",
+    "answer": "\"Thanksgiving.\"",
+    "references": ["Catechism 1328"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 239,
+    "category": "Sacraments",
+    "subcategory": "Heavenly Liturgy",
+    "question": "How is the Eucharist related to the heavenly liturgy?",
+    "answer": "It is a foretaste and participation in the worship of Heaven.",
+    "references": ["Catechism 1326"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 240,
+    "category": "Sacraments",
+    "subcategory": "Eucharist and Unity",
+    "question": "How does the Eucharist foster unity?",
+    "answer": "By uniting the faithful more closely to Christ and one another.",
+    "references": ["Catechism 1396"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 241,
+    "category": "Sacraments",
+    "subcategory": "Penance",
+    "question": "What is the Sacrament of Penance?",
+    "answer": "The sacrament by which sins committed after Baptism are forgiven through the absolution of the priest.",
+    "references": ["Catechism 1422"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Basic"
+  },
+  {
+    "id": 242,
+    "category": "Sacraments",
+    "subcategory": "Other Names",
+    "question": "What are other names for Penance?",
+    "answer": "Confession, Reconciliation, and Conversion.",
+    "references": ["Catechism 1423-1424"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Basic"
+  },
+  {
+    "id": 243,
+    "category": "Sacraments",
+    "subcategory": "Matter and Form",
+    "question": "What are the matter and form of Penance?",
+    "answer": "Matter: Acts of the penitent (contrition, confession, satisfaction); Form: Words of absolution.",
+    "references": ["Catechism 1448-1449"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 244,
+    "category": "Sacraments",
+    "subcategory": "Effects of Penance",
+    "question": "What are the effects of the Sacrament of Penance?",
+    "answer": "Forgives sins, reconciles us with God and the Church, restores sanctifying grace.",
+    "references": ["Catechism 1468-1470"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 245,
+    "category": "Sacraments",
+    "subcategory": "Contrition",
+    "question": "What is contrition?",
+    "answer": "Sorrow for having sinned, with the resolution not to sin again.",
+    "references": ["Catechism 1451-1453"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 246,
+    "category": "Sacraments",
+    "subcategory": "Perfect and Imperfect Contrition",
+    "question": "What is the difference between perfect and imperfect contrition?",
+    "answer": "Perfect contrition arises from love of God; imperfect from fear of punishment.",
+    "references": ["Catechism 1452-1453"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 247,
+    "category": "Sacraments",
+    "subcategory": "Seal of Confession",
+    "question": "What is the seal of confession?",
+    "answer": "The absolute duty of priests not to disclose anything learned in confession.",
+    "references": ["Catechism 1467"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Advanced"
+  },
+  {
+    "id": 248,
+    "category": "Sacraments",
+    "subcategory": "Minister of Penance",
+    "question": "Who is the minister of the Sacrament of Penance?",
+    "answer": "A validly ordained bishop or priest.",
+    "references": ["Catechism 1461"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Basic"
+  },
+  {
+    "id": 249,
+    "category": "Sacraments",
+    "subcategory": "Frequent Confession",
+    "question": "Is frequent confession recommended?",
+    "answer": "Yes, to grow in holiness and avoid sin.",
+    "references": ["Catechism 1458"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Basic"
+  },
+  {
+    "id": 250,
+    "category": "Sacraments",
+    "subcategory": "Confession of Mortal Sins",
+    "question": "Are all mortal sins to be confessed?",
+    "answer": "Yes, all known mortal sins must be confessed in number and kind.",
+    "references": ["Catechism 1456"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 251,
+    "category": "Sacraments",
+    "subcategory": "Confession of Venial Sins",
+    "question": "Is it necessary to confess venial sins?",
+    "answer": "Not strictly necessary, but strongly recommended.",
+    "references": ["Catechism 1458"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Basic"
+  },
+  {
+    "id": 252,
+    "category": "Sacraments",
+    "subcategory": "Sacramental Satisfaction",
+    "question": "What is sacramental satisfaction?",
+    "answer": "The penance given by the confessor to repair the harm caused by sin.",
+    "references": ["Catechism 1459-1460"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 253,
+    "category": "Sacraments",
+    "subcategory": "General Absolution",
+    "question": "What is general absolution?",
+    "answer": "Absolution given without individual confession, only in grave necessity.",
+    "references": ["Catechism 1483"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Advanced"
+  },
+  {
+    "id": 254,
+    "category": "Sacraments",
+    "subcategory": "Necessity of Penance",
+    "question": "Is the Sacrament of Penance necessary for salvation?",
+    "answer": "It is necessary for the forgiveness of mortal sins after Baptism.",
+    "references": ["Catechism 1446"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Advanced"
+  },
+  {
+    "id": 255,
+    "category": "Sacraments",
+    "subcategory": "Effects on Mortal Sin",
+    "question": "What effect does Penance have on mortal sin?",
+    "answer": "It forgives mortal sin and restores sanctifying grace.",
+    "references": ["Catechism 1468"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 256,
+    "category": "Sacraments",
+    "subcategory": "Effects on Venial Sin",
+    "question": "What effect does Penance have on venial sin?",
+    "answer": "It forgives venial sins and strengthens against temptation.",
+    "references": ["Catechism 1458"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 257,
+    "category": "Sacraments",
+    "subcategory": "Indulgences",
+    "question": "What is an indulgence?",
+    "answer": "The remission before God of temporal punishment due to sins whose guilt is forgiven.",
+    "references": ["Catechism 1471"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 258,
+    "category": "Sacraments",
+    "subcategory": "Types of Indulgences",
+    "question": "What are the types of indulgences?",
+    "answer": "Plenary (full remission) and partial.",
+    "references": ["Catechism 1471"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 259,
+    "category": "Sacraments",
+    "subcategory": "Conditions for Plenary Indulgence",
+    "question": "What are the conditions for gaining a plenary indulgence?",
+    "answer": "Confession, Communion, prayer for the Pope's intentions, and complete detachment from sin.",
+    "references": ["Catechism 1471-1479"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Advanced"
+  },
+  {
+    "id": 260,
+    "category": "Sacraments",
+    "subcategory": "Scriptural Basis",
+    "question": "What is the scriptural basis for the Sacrament of Penance?",
+    "answer": "\"Whose sins you forgive are forgiven them\" (John 20:23).",
+    "references": ["John 20:23"],
+    "tags": ["Sacraments", "Penance"],
+    "level": "Basic"
+  },
+  {
+    "id": 261,
+    "category": "Sacraments",
+    "subcategory": "Anointing of the Sick",
+    "question": "What is the Sacrament of Anointing of the Sick?",
+    "answer": "The sacrament which gives spiritual strength and sometimes physical healing to those who are seriously ill or in danger of death.",
+    "references": ["Catechism 1499"],
+    "tags": ["Sacraments", "Anointing"],
+    "level": "Basic"
+  },
+  {
+    "id": 262,
+    "category": "Sacraments",
+    "subcategory": "Scriptural Basis",
+    "question": "What is the scriptural basis for the Anointing of the Sick?",
+    "answer": "James 5:14-15 speaks of anointing the sick with oil in the name of the Lord.",
+    "references": ["James 5:14-15"],
+    "tags": ["Sacraments", "Anointing"],
+    "level": "Basic"
+  },
+  {
+    "id": 263,
+    "category": "Sacraments",
+    "subcategory": "Matter and Form",
+    "question": "What are the matter and form of the Anointing of the Sick?",
+    "answer": "Matter: Oil of the Sick; Form: Prayer of the priest for healing and forgiveness.",
+    "references": ["Catechism 1513"],
+    "tags": ["Sacraments", "Anointing"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 264,
+    "category": "Sacraments",
+    "subcategory": "Effects",
+    "question": "What are the effects of the Anointing of the Sick?",
+    "answer": "Strengthening, peace, courage, forgiveness of sins, and sometimes physical healing.",
+    "references": ["Catechism 1520-1523"],
+    "tags": ["Sacraments", "Anointing"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 265,
+    "category": "Sacraments",
+    "subcategory": "When to Receive",
+    "question": "When should a Catholic receive Anointing of the Sick?",
+    "answer": "When seriously ill, preparing for surgery, or in danger of death.",
+    "references": ["Catechism 1514-1515"],
+    "tags": ["Sacraments", "Anointing"],
+    "level": "Basic"
+  },
+  {
+    "id": 266,
+    "category": "Sacraments",
+    "subcategory": "Minister",
+    "question": "Who is the minister of the Anointing of the Sick?",
+    "answer": "Only bishops and priests.",
+    "references": ["Catechism 1516"],
+    "tags": ["Sacraments", "Anointing"],
+    "level": "Basic"
+  },
+  {
+    "id": 267,
+    "category": "Sacraments",
+    "subcategory": "Repeatable Sacrament",
+    "question": "Can Anointing of the Sick be received more than once?",
+    "answer": "Yes, whenever the person is seriously ill again or the illness worsens.",
+    "references": ["Catechism 1515"],
+    "tags": ["Sacraments", "Anointing"],
+    "level": "Basic"
+  },
+  {
+    "id": 268,
+    "category": "Sacraments",
+    "subcategory": "Relation to Penance",
+    "question": "Does the Anointing of the Sick forgive sins?",
+    "answer": "Yes, if the person is unable to confess and has contrition.",
+    "references": ["Catechism 1520-1525"],
+    "tags": ["Sacraments", "Anointing", "Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 269,
+    "category": "Sacraments",
+    "subcategory": "Viaticum",
+    "question": "What is Viaticum?",
+    "answer": "Holy Communion given to a dying person as food for the journey to eternal life.",
+    "references": ["Catechism 1524-1525"],
+    "tags": ["Sacraments", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 270,
+    "category": "Sacraments",
+    "subcategory": "Final Preparation",
+    "question": "What sacraments are recommended before death?",
+    "answer": "Penance, Anointing of the Sick, and Viaticum.",
+    "references": ["Catechism 1525"],
+    "tags": ["Sacraments", "Anointing", "Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 271,
+    "category": "Sacraments",
+    "subcategory": "Holy Orders",
+    "question": "What is the Sacrament of Holy Orders?",
+    "answer": "The sacrament by which men are ordained deacons, priests, or bishops.",
+    "references": ["Catechism 1536"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Basic"
+  },
+  {
+    "id": 272,
+    "category": "Sacraments",
+    "subcategory": "Degrees",
+    "question": "What are the three degrees of Holy Orders?",
+    "answer": "Episcopate (bishop), Presbyterate (priest), and Diaconate (deacon).",
+    "references": ["Catechism 1554"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Basic"
+  },
+  {
+    "id": 273,
+    "category": "Sacraments",
+    "subcategory": "Minister of Holy Orders",
+    "question": "Who can validly ordain in Holy Orders?",
+    "answer": "Only a validly consecrated bishop.",
+    "references": ["Catechism 1576"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Basic"
+  },
+  {
+    "id": 274,
+    "category": "Sacraments",
+    "subcategory": "Matter and Form",
+    "question": "What are the matter and form of Holy Orders?",
+    "answer": "Matter: Laying on of hands; Form: Consecratory prayer.",
+    "references": ["Catechism 1573"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 275,
+    "category": "Sacraments",
+    "subcategory": "Effects",
+    "question": "What are the effects of Holy Orders?",
+    "answer": "Confers the grace and spiritual power proper to the degree received, and an indelible character.",
+    "references": ["Catechism 1581-1584"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 276,
+    "category": "Sacraments",
+    "subcategory": "Celibacy",
+    "question": "Why is celibacy required for Latin Rite priests?",
+    "answer": "As a sign of total dedication to Christ and the Church.",
+    "references": ["Catechism 1579"],
+    "tags": ["Sacraments", "Holy Orders", "Celibacy"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 277,
+    "category": "Sacraments",
+    "subcategory": "Deacons",
+    "question": "What is the role of a deacon?",
+    "answer": "To assist in liturgy, proclaim the Gospel, and perform works of charity.",
+    "references": ["Catechism 1570"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Basic"
+  },
+  {
+    "id": 278,
+    "category": "Sacraments",
+    "subcategory": "Permanent Diaconate",
+    "question": "What is the permanent diaconate?",
+    "answer": "A stable order of deacons who may be married if ordained before marriage.",
+    "references": ["Catechism 1571"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 279,
+    "category": "Sacraments",
+    "subcategory": "Women and Holy Orders",
+    "question": "Can women receive Holy Orders?",
+    "answer": "No, the Church has no authority to confer priestly ordination on women.",
+    "references": ["Catechism 1577"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Advanced"
+  },
+  {
+    "id": 280,
+    "category": "Sacraments",
+    "subcategory": "Indelible Character",
+    "question": "Does Holy Orders impart an indelible character?",
+    "answer": "Yes, the ordained are permanently configured to Christ.",
+    "references": ["Catechism 1582"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 281,
+    "category": "Sacraments",
+    "subcategory": "Matrimony",
+    "question": "What is the Sacrament of Matrimony?",
+    "answer": "The sacrament by which a baptized man and woman are united in a lifelong covenant of love and open to the procreation of children.",
+    "references": ["Catechism 1601"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Basic"
+  },
+  {
+    "id": 282,
+    "category": "Sacraments",
+    "subcategory": "Matter and Form",
+    "question": "What are the matter and form of Matrimony?",
+    "answer": "Matter: The couple themselves; Form: Exchange of consent before the Church.",
+    "references": ["Catechism 1626-1631"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 283,
+    "category": "Sacraments",
+    "subcategory": "Effects",
+    "question": "What are the effects of Matrimony?",
+    "answer": "Gives spouses the grace to love each other as Christ loves His Church and helps them raise their children in the faith.",
+    "references": ["Catechism 1641-1642"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 284,
+    "category": "Sacraments",
+    "subcategory": "Unity and Indissolubility",
+    "question": "What are the essential properties of Christian marriage?",
+    "answer": "Unity and indissolubility.",
+    "references": ["Catechism 1644"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 285,
+    "category": "Sacraments",
+    "subcategory": "Openness to Children",
+    "question": "Must marriage be open to children?",
+    "answer": "Yes, openness to life is essential to Christian marriage.",
+    "references": ["Catechism 1652-1653"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 286,
+    "category": "Sacraments",
+    "subcategory": "Mixed Marriages",
+    "question": "Does the Church allow marriage between a Catholic and a baptized non-Catholic?",
+    "answer": "Yes, with permission from ecclesiastical authority.",
+    "references": ["Catechism 1633-1637"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 287,
+    "category": "Sacraments",
+    "subcategory": "Disparity of Cult",
+    "question": "Can a Catholic marry an unbaptized person?",
+    "answer": "Yes, but it requires a dispensation and brings particular challenges.",
+    "references": ["Catechism 1633-1637"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Advanced"
+  },
+  {
+    "id": 288,
+    "category": "Sacraments",
+    "subcategory": "Annulment",
+    "question": "What is an annulment?",
+    "answer": "A declaration by the Church that a valid marriage never took place due to a lack of essential elements.",
+    "references": ["Catechism 1629"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 289,
+    "category": "Sacraments",
+    "subcategory": "Sacramental Grace",
+    "question": "What is the specific grace of Matrimony?",
+    "answer": "The grace to perfect the couple's love and strengthen their unity.",
+    "references": ["Catechism 1642"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 290,
+    "category": "Sacraments",
+    "subcategory": "Divorce",
+    "question": "Does the Church recognize civil divorce?",
+    "answer": "No, it does not dissolve the bond of a valid sacramental marriage.",
+    "references": ["Catechism 2382-2386"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Advanced"
+  },
+  {
+    "id": 291,
+    "category": "Sacraments",
+    "subcategory": "Remarriage",
+    "question": "Can divorced Catholics remarry?",
+    "answer": "Not unless the previous marriage is declared null by the Church.",
+    "references": ["Catechism 1650"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Advanced"
+  },
+  {
+    "id": 292,
+    "category": "Sacraments",
+    "subcategory": "Domestic Church",
+    "question": "What is the 'Domestic Church'?",
+    "answer": "The Christian family, where faith is lived and passed on.",
+    "references": ["Catechism 1655-1658"],
+    "tags": ["Sacraments", "Family"],
+    "level": "Basic"
+  },
+  {
+    "id": 293,
+    "category": "Sacraments",
+    "subcategory": "Role of Parents",
+    "question": "What is the role of parents in the Domestic Church?",
+    "answer": "To be the first teachers of faith and moral formation for their children.",
+    "references": ["Catechism 1656"],
+    "tags": ["Sacraments", "Family"],
+    "level": "Basic"
+  },
+  {
+    "id": 294,
+    "category": "Sacraments",
+    "subcategory": "Conjugal Love",
+    "question": "What is conjugal love?",
+    "answer": "The total, faithful, fruitful, and exclusive love proper to marriage.",
+    "references": ["Catechism 1643"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 295,
+    "category": "Sacraments",
+    "subcategory": "Fidelity",
+    "question": "Why is fidelity essential in marriage?",
+    "answer": "Because it reflects the fidelity of Christ to His Church.",
+    "references": ["Catechism 1647"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 296,
+    "category": "Sacraments",
+    "subcategory": "Natural Family Planning",
+    "question": "What is the Church's teaching on Natural Family Planning (NFP)?",
+    "answer": "It is morally acceptable and respects the natural rhythms of fertility.",
+    "references": ["Catechism 2370"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 297,
+    "category": "Sacraments",
+    "subcategory": "Artificial Contraception",
+    "question": "What is the Church's teaching on artificial contraception?",
+    "answer": "It is morally unacceptable as it deliberately frustrates the procreative purpose of marriage.",
+    "references": ["Catechism 2370"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Advanced"
+  },
+  {
+    "id": 298,
+    "category": "Sacraments",
+    "subcategory": "Same-Sex Unions",
+    "question": "What is the Church's position on same-sex unions?",
+    "answer": "The Church teaches that marriage is exclusively between one man and one woman.",
+    "references": ["Catechism 2357"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Advanced"
+  },
+  {
+    "id": 299,
+    "category": "Sacraments",
+    "subcategory": "Convalidation",
+    "question": "What is a convalidation?",
+    "answer": "The celebration of a valid marriage when the original consent was defective.",
+    "references": ["Catechism 1650"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 300,
+    "category": "Sacraments",
+    "subcategory": "Marriage Preparation",
+    "question": "Why does the Church require marriage preparation?",
+    "answer": "To help couples understand the responsibilities and sacramental nature of marriage.",
+    "references": ["Catechism 1625"],
+    "tags": ["Sacraments", "Marriage"],
+    "level": "Basic"
+  },
+  {
+    "id": 301,
+    "category": "Sacraments",
+    "subcategory": "Annulment",
+    "question": "Does an annulment mean the marriage never happened?",
+    "answer": "No, it means that a valid sacramental marriage was never present, though a civil or apparent union existed.",
+    "references": ["Catechism 1629"],
+    "tags": ["Annulment", "Marriage", "Sacraments"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 302,
+    "category": "Sacraments",
+    "subcategory": "Holy Orders",
+    "question": "What is the Sacrament of Holy Orders?",
+    "answer": "The sacrament through which the mission entrusted by Christ to His Apostles continues in the Church.",
+    "references": ["Catechism 1536"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Basic"
+  },
+  {
+    "id": 303,
+    "category": "Sacraments",
+    "subcategory": "Degrees of Holy Orders",
+    "question": "What are the degrees of the Sacrament of Holy Orders?",
+    "answer": "Bishop (episcopate), priest (presbyterate), and deacon (diaconate).",
+    "references": ["Catechism 1554"],
+    "tags": ["Holy Orders", "Clergy"],
+    "level": "Basic"
+  },
+  {
+    "id": 304,
+    "category": "Sacraments",
+    "subcategory": "Ordination of Priests",
+    "question": "Why can only men be ordained?",
+    "answer": "Because Christ chose only men as Apostles, and the Church is bound by this example.",
+    "references": ["Catechism 1577", "Ordinatio Sacerdotalis"],
+    "tags": ["Holy Orders", "Priesthood"],
+    "level": "Advanced"
+  },
+  {
+    "id": 305,
+    "category": "Sacraments",
+    "subcategory": "Celibacy",
+    "question": "Why is priestly celibacy practiced in the Latin Church?",
+    "answer": "To imitate Christ and serve the Church with undivided heart and freedom.",
+    "references": ["Catechism 1579"],
+    "tags": ["Celibacy", "Holy Orders"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 306,
+    "category": "Sacraments",
+    "subcategory": "Indelible Character",
+    "question": "Does Holy Orders leave an indelible mark?",
+    "answer": "Yes, it confers a permanent spiritual character.",
+    "references": ["Catechism 1582"],
+    "tags": ["Sacraments", "Holy Orders"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 307,
+    "category": "Sacraments",
+    "subcategory": "Minister",
+    "question": "Who can validly confer Holy Orders?",
+    "answer": "Only a validly consecrated bishop.",
+    "references": ["Catechism 1576"],
+    "tags": ["Holy Orders", "Bishops"],
+    "level": "Basic"
+  },
+  {
+    "id": 308,
+    "category": "Sacraments",
+    "subcategory": "Vocation",
+    "question": "What is a vocation?",
+    "answer": "A calling from God to a particular state of life, such as priesthood, religious life, marriage, or single life.",
+    "references": ["Catechism 873"],
+    "tags": ["Vocation", "Discipleship"],
+    "level": "Basic"
+  },
+  {
+    "id": 309,
+    "category": "Sacraments",
+    "subcategory": "Deacons",
+    "question": "What is the role of a deacon?",
+    "answer": "To assist in liturgy, preach, and perform works of charity.",
+    "references": ["Catechism 1569–1571"],
+    "tags": ["Deacons", "Holy Orders"],
+    "level": "Basic"
+  },
+  {
+    "id": 310,
+    "category": "Sacraments",
+    "subcategory": "Sacramentals",
+    "question": "What are sacramentals?",
+    "answer": "Sacred signs instituted by the Church to prepare us to receive grace and dispose us to cooperate with it.",
+    "references": ["Catechism 1667"],
+    "tags": ["Sacramentals"],
+    "level": "Basic"
+  },
+  {
+    "id": 311,
+    "category": "Sacraments",
+    "subcategory": "Examples of Sacramentals",
+    "question": "What are examples of sacramentals?",
+    "answer": "Blessings, holy water, crucifixes, rosaries, and medals.",
+    "references": ["Catechism 1668–1670"],
+    "tags": ["Sacramentals", "Devotionals"],
+    "level": "Basic"
+  },
+  {
+    "id": 312,
+    "category": "Sacraments",
+    "subcategory": "Power of Sacramentals",
+    "question": "Do sacramentals confer grace?",
+    "answer": "Not ex opere operato like sacraments, but through the Church's prayer and our disposition.",
+    "references": ["Catechism 1667"],
+    "tags": ["Sacramentals"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 313,
+    "category": "Prayer",
+    "subcategory": "What is Prayer",
+    "question": "What is prayer?",
+    "answer": "The raising of one’s mind and heart to God or the requesting of good things from Him.",
+    "references": ["Catechism 2559"],
+    "tags": ["Prayer"],
+    "level": "Basic"
+  },
+  {
+    "id": 314,
+    "category": "Prayer",
+    "subcategory": "Types of Prayer",
+    "question": "What are the main types of prayer?",
+    "answer": "Blessing and adoration, petition, intercession, thanksgiving, and praise.",
+    "references": ["Catechism 2626–2643"],
+    "tags": ["Prayer"],
+    "level": "Basic"
+  },
+  {
+    "id": 315,
+    "category": "Prayer",
+    "subcategory": "The Lord’s Prayer",
+    "question": "Why is the Lord’s Prayer called the perfect prayer?",
+    "answer": "Because it was taught by Jesus and contains all we need to ask God for.",
+    "references": ["Catechism 2761"],
+    "tags": ["Prayer", "Lord's Prayer"],
+    "level": "Basic"
+  },
+  {
+    "id": 316,
+    "category": "Prayer",
+    "subcategory": "Mental Prayer",
+    "question": "What is mental prayer?",
+    "answer": "Interior prayer that involves meditation and contemplation.",
+    "references": ["Catechism 2709–2719"],
+    "tags": ["Prayer", "Contemplation"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 317,
+    "category": "Prayer",
+    "subcategory": "Vocal Prayer",
+    "question": "What is vocal prayer?",
+    "answer": "Prayer expressed in words, whether spoken or recited silently.",
+    "references": ["Catechism 2700–2704"],
+    "tags": ["Prayer"],
+    "level": "Basic"
+  },
+  {
+    "id": 318,
+    "category": "Prayer",
+    "subcategory": "The Rosary",
+    "question": "Why is the Rosary powerful?",
+    "answer": "It is a meditative prayer centered on Christ and intercession of Mary, drawing from Scripture and tradition.",
+    "references": ["Rosarium Virginis Mariae"],
+    "tags": ["Rosary", "Prayer", "Mary"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 319,
+    "category": "Prayer",
+    "subcategory": "Liturgy of the Hours",
+    "question": "What is the Liturgy of the Hours?",
+    "answer": "The official daily prayer of the Church, sanctifying the day with Scripture and psalms.",
+    "references": ["Catechism 1174–1178"],
+    "tags": ["Prayer", "Liturgy"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 320,
+    "category": "Prayer",
+    "subcategory": "Efficacy of Prayer",
+    "question": "Does prayer really change things?",
+    "answer": "Yes, it draws us into God’s will and brings about real effects according to His providence.",
+    "references": ["Catechism 2738–2741"],
+    "tags": ["Prayer", "Providence"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 321,
+    "category": "Prayer",
+    "subcategory": "Distractions",
+    "question": "What if I get distracted in prayer?",
+    "answer": "Distractions are normal; we must persevere and refocus our hearts on God.",
+    "references": ["Catechism 2729–2733"],
+    "tags": ["Prayer", "Distractions"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 322,
+    "category": "Prayer",
+    "subcategory": "Perseverance",
+    "question": "Why is perseverance in prayer important?",
+    "answer": "Because God desires us to trust Him continually and not lose heart even when answers are delayed.",
+    "references": ["Catechism 2730–2737"],
+    "tags": ["Prayer", "Perseverance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 323,
+    "category": "Prayer",
+    "subcategory": "Intercession of Saints",
+    "question": "Why do Catholics ask for the intercession of saints?",
+    "answer": "Because they are alive in Christ and can pray for us as members of the Body of Christ.",
+    "references": ["Revelation 5:8", "Catechism 956–957"],
+    "tags": ["Saints", "Intercession", "Prayer"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 324,
+    "category": "Prayer",
+    "subcategory": "Mary’s Role in Prayer",
+    "question": "What is Mary’s role in our prayer life?",
+    "answer": "She intercedes for us as our Mother, leading us closer to Christ.",
+    "references": ["Catechism 2677–2679"],
+    "tags": ["Mary", "Prayer"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 325,
+    "category": "Prayer",
+    "subcategory": "Praying to Jesus",
+    "question": "Should we pray directly to Jesus?",
+    "answer": "Yes, He is the Mediator between God and man and invites us to pray directly to Him.",
+    "references": ["Catechism 2665–2669"],
+    "tags": ["Jesus", "Prayer"],
+    "level": "Basic"
+  },
+  {
+    "id": 326,
+    "category": "Prayer",
+    "subcategory": "Praying to the Father",
+    "question": "Why do we pray to the Father?",
+    "answer": "Because Jesus taught us to address the Father directly, especially in the Lord’s Prayer.",
+    "references": ["Catechism 2760"],
+    "tags": ["Prayer", "Father"],
+    "level": "Basic"
+  },
+  {
+    "id": 327,
+    "category": "Prayer",
+    "subcategory": "Praying in the Spirit",
+    "question": "What does it mean to pray in the Holy Spirit?",
+    "answer": "To allow the Spirit to animate and guide our prayer, making us children of God.",
+    "references": ["Catechism 2670–2672"],
+    "tags": ["Holy Spirit", "Prayer"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 328,
+    "category": "Prayer",
+    "subcategory": "Communal Prayer",
+    "question": "Is communal prayer important?",
+    "answer": "Yes, it expresses the unity of the Body of Christ and is highly recommended by the Church.",
+    "references": ["Catechism 2691–2696"],
+    "tags": ["Prayer", "Community"],
+    "level": "Basic"
+  },
+  {
+    "id": 329,
+    "category": "Prayer",
+    "subcategory": "Silence in Prayer",
+    "question": "Why is silence important in prayer?",
+    "answer": "Because it allows us to hear God’s voice and enter into deep communion with Him.",
+    "references": ["Catechism 2717"],
+    "tags": ["Silence", "Prayer"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 330,
+    "category": "Prayer",
+    "subcategory": "Formal Prayers",
+    "question": "What are formal prayers?",
+    "answer": "Prayers taught by the Church or Scripture such as the Our Father, Hail Mary, and Creed.",
+    "references": ["Catechism 2688"],
+    "tags": ["Prayer", "Tradition"],
+    "level": "Basic"
+  },
+  {
+    "id": 331,
+    "category": "Eschatology",
+    "subcategory": "Death",
+    "question": "What happens at the moment of death?",
+    "answer": "The soul is separated from the body and goes to judgment by God.",
+    "references": ["Catechism 1021–1022"],
+    "tags": ["Death", "Judgment"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 332,
+    "category": "Eschatology",
+    "subcategory": "Particular Judgment",
+    "question": "What is the particular judgment?",
+    "answer": "It is the judgment each soul receives immediately after death.",
+    "references": ["Catechism 1022"],
+    "tags": ["Judgment"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 333,
+    "category": "Eschatology",
+    "subcategory": "Heaven",
+    "question": "What is Heaven?",
+    "answer": "The state of eternal communion with God and all the saints.",
+    "references": ["Catechism 1023–1029"],
+    "tags": ["Heaven"],
+    "level": "Basic"
+  },
+  {
+    "id": 334,
+    "category": "Eschatology",
+    "subcategory": "Purgatory",
+    "question": "What is Purgatory?",
+    "answer": "A state of purification for souls who die in grace but still need purification before entering Heaven.",
+    "references": ["Catechism 1030–1032"],
+    "tags": ["Purgatory"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 335,
+    "category": "Eschatology",
+    "subcategory": "Hell",
+    "question": "What is Hell?",
+    "answer": "The eternal separation from God due to the deliberate rejection of His love.",
+    "references": ["Catechism 1033–1037"],
+    "tags": ["Hell"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 336,
+    "category": "Eschatology",
+    "subcategory": "Final Judgment",
+    "question": "What is the Final Judgment?",
+    "answer": "The judgment at the end of time when Christ returns and reveals everyone's deeds.",
+    "references": ["Catechism 1038–1041"],
+    "tags": ["Judgment", "End Times"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 337,
+    "category": "Eschatology",
+    "subcategory": "Resurrection of the Dead",
+    "question": "What is the resurrection of the dead?",
+    "answer": "The reunion of body and soul for eternal life or eternal separation from God.",
+    "references": ["Catechism 992–1004"],
+    "tags": ["Resurrection"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 338,
+    "category": "Eschatology",
+    "subcategory": "New Heaven and New Earth",
+    "question": "What is meant by a new Heaven and a new Earth?",
+    "answer": "At the end of time, God will renew all creation for the eternal dwelling of the righteous.",
+    "references": ["Catechism 1042–1050"],
+    "tags": ["Heaven", "New Creation"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 339,
+    "category": "Eschatology",
+    "subcategory": "Beatific Vision",
+    "question": "What is the Beatific Vision?",
+    "answer": "Seeing God face to face in Heaven, the ultimate happiness of man.",
+    "references": ["Catechism 1028"],
+    "tags": ["Heaven", "Vision of God"],
+    "level": "Advanced"
+  },
+  {
+    "id": 340,
+    "category": "Eschatology",
+    "subcategory": "Hope in Death",
+    "question": "Why should Christians have hope even in death?",
+    "answer": "Because death is the entrance to eternal life promised by Christ to the faithful.",
+    "references": ["Catechism 1010"],
+    "tags": ["Death", "Hope"],
+    "level": "Basic"
+  },
+  {
+    "id": 341,
+    "category": "Sacraments",
+    "subcategory": "General",
+    "question": "What is a sacrament?",
+    "answer": "A visible sign instituted by Christ to give grace.",
+    "references": ["Catechism 1131"],
+    "tags": ["Sacraments"],
+    "level": "Basic"
+  },
+  {
+    "id": 342,
+    "category": "Sacraments",
+    "subcategory": "Number of Sacraments",
+    "question": "How many sacraments are there?",
+    "answer": "There are seven sacraments.",
+    "references": ["Catechism 1210"],
+    "tags": ["Sacraments"],
+    "level": "Basic"
+  },
+  {
+    "id": 343,
+    "category": "Sacraments",
+    "subcategory": "Baptism",
+    "question": "What does Baptism do?",
+    "answer": "It removes original sin, makes us children of God, and incorporates us into the Church.",
+    "references": ["Catechism 1213–1274"],
+    "tags": ["Baptism"],
+    "level": "Basic"
+  },
+  {
+    "id": 344,
+    "category": "Sacraments",
+    "subcategory": "Eucharist",
+    "question": "What is the Eucharist?",
+    "answer": "The true Body, Blood, Soul, and Divinity of Jesus Christ under the appearance of bread and wine.",
+    "references": ["Catechism 1322–1419"],
+    "tags": ["Eucharist"],
+    "level": "Basic"
+  },
+  {
+    "id": 345,
+    "category": "Sacraments",
+    "subcategory": "Confirmation",
+    "question": "What is Confirmation?",
+    "answer": "The sacrament which strengthens us with the gifts of the Holy Spirit.",
+    "references": ["Catechism 1285–1321"],
+    "tags": ["Confirmation"],
+    "level": "Basic"
+  },
+  {
+    "id": 346,
+    "category": "Sacraments",
+    "subcategory": "Penance",
+    "question": "What is the Sacrament of Penance?",
+    "answer": "Also called Confession or Reconciliation, it forgives sins committed after Baptism.",
+    "references": ["Catechism 1422–1498"],
+    "tags": ["Penance"],
+    "level": "Basic"
+  },
+  {
+    "id": 347,
+    "category": "Sacraments",
+    "subcategory": "Anointing of the Sick",
+    "question": "What is Anointing of the Sick?",
+    "answer": "It gives spiritual and sometimes physical healing to the seriously ill and prepares them for eternal life.",
+    "references": ["Catechism 1499–1532"],
+    "tags": ["Anointing"],
+    "level": "Basic"
+  },
+  {
+    "id": 348,
+    "category": "Sacraments",
+    "subcategory": "Holy Orders",
+    "question": "What is the Sacrament of Holy Orders?",
+    "answer": "It confers the grace and spiritual power for the service of the Church as bishop, priest, or deacon.",
+    "references": ["Catechism 1536–1600"],
+    "tags": ["Holy Orders"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 349,
+    "category": "Sacraments",
+    "subcategory": "Matrimony",
+    "question": "What is Matrimony?",
+    "answer": "The sacrament by which a man and a woman are united in lifelong, faithful love open to life.",
+    "references": ["Catechism 1601–1666"],
+    "tags": ["Matrimony"],
+    "level": "Basic"
+  },
+  {
+    "id": 350,
+    "category": "Sacraments",
+    "subcategory": "Effects of the Eucharist",
+    "question": "What are the effects of receiving the Eucharist?",
+    "answer": "It unites us more closely to Christ, forgives venial sins, and helps us avoid grave sin.",
+    "references": ["Catechism 1391–1405"],
+    "tags": ["Eucharist"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 351,
+    "category": "Sacraments",
+    "subcategory": "Real Presence",
+    "question": "What is the Real Presence?",
+    "answer": "Christ is truly, really, and substantially present in the Eucharist under the appearance of bread and wine.",
+    "references": ["Catechism 1373–1377"],
+    "tags": ["Eucharist", "Real Presence"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 352,
+    "category": "Sacraments",
+    "subcategory": "Minister of Baptism",
+    "question": "Who can baptize in case of necessity?",
+    "answer": "Anyone, even a non-baptized person, if they intend to do what the Church does.",
+    "references": ["Catechism 1256"],
+    "tags": ["Baptism"],
+    "level": "Basic"
+  },
+  {
+    "id": 353,
+    "category": "Sacraments",
+    "subcategory": "Matter and Form",
+    "question": "What are matter and form in sacraments?",
+    "answer": "Matter is the physical sign, and form is the words or prayers which bring about the sacrament.",
+    "references": ["Catechism 1121"],
+    "tags": ["Sacraments"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 354,
+    "category": "Sacraments",
+    "subcategory": "Indelible Mark",
+    "question": "Which sacraments leave an indelible mark?",
+    "answer": "Baptism, Confirmation, and Holy Orders.",
+    "references": ["Catechism 1121"],
+    "tags": ["Sacraments"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 355,
+    "category": "Sacraments",
+    "subcategory": "Frequent Confession",
+    "question": "Why does the Church encourage frequent confession?",
+    "answer": "It helps us grow in humility, self-knowledge, and grace.",
+    "references": ["Catechism 1458"],
+    "tags": ["Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 356,
+    "category": "Sacraments",
+    "subcategory": "Who Can Receive Confirmation",
+    "question": "Who can receive Confirmation?",
+    "answer": "Any baptized person who has not yet been confirmed.",
+    "references": ["Catechism 1306"],
+    "tags": ["Confirmation"],
+    "level": "Basic"
+  },
+  {
+    "id": 357,
+    "category": "Sacraments",
+    "subcategory": "Viaticum",
+    "question": "What is Viaticum?",
+    "answer": "The Eucharist given to a dying person as spiritual food for the journey to eternal life.",
+    "references": ["Catechism 1524"],
+    "tags": ["Eucharist", "Anointing"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 358,
+    "category": "Sacraments",
+    "subcategory": "Validity of Sacraments",
+    "question": "What is necessary for a sacrament to be valid?",
+    "answer": "Proper matter, form, minister, and intention.",
+    "references": ["Catechism 1121"],
+    "tags": ["Sacraments"],
+    "level": "Advanced"
+  },
+  {
+    "id": 359,
+    "category": "Sacraments",
+    "subcategory": "State of Grace",
+    "question": "Why must one be in a state of grace to receive the Eucharist?",
+    "answer": "Because receiving in mortal sin is a sacrilege.",
+    "references": ["Catechism 1385"],
+    "tags": ["Eucharist", "Grace"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 360,
+    "category": "Sacraments",
+    "subcategory": "Sacramental Character",
+    "question": "What is sacramental character?",
+    "answer": "A spiritual mark imprinted by certain sacraments that configures us to Christ.",
+    "references": ["Catechism 1121"],
+    "tags": ["Sacraments"],
+    "level": "Advanced"
+  },
+  {
+    "id": 361,
+    "category": "Sacraments",
+    "subcategory": "Anointing of the Sick",
+    "question": "Can Anointing of the Sick be received more than once?",
+    "answer": "Yes, it can be received whenever a person is seriously ill or facing major surgery.",
+    "references": ["Catechism 1514"],
+    "tags": ["Anointing"],
+    "level": "Basic"
+  },
+  {
+    "id": 362,
+    "category": "Sacraments",
+    "subcategory": "Confession",
+    "question": "What sins must be confessed in the Sacrament of Penance?",
+    "answer": "All mortal sins in kind and number, as far as one is aware.",
+    "references": ["Catechism 1456"],
+    "tags": ["Penance", "Confession"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 363,
+    "category": "Sacraments",
+    "subcategory": "Effects of Confirmation",
+    "question": "What are the effects of Confirmation?",
+    "answer": "It roots us more deeply in divine sonship, unites us more firmly to Christ, increases the gifts of the Holy Spirit, and gives strength to witness the faith.",
+    "references": ["Catechism 1302–1305"],
+    "tags": ["Confirmation"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 364,
+    "category": "Sacraments",
+    "subcategory": "Marriage",
+    "question": "Is marriage indissoluble?",
+    "answer": "Yes, marriage is a lifelong covenant that cannot be dissolved by any human power.",
+    "references": ["Catechism 1640"],
+    "tags": ["Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 365,
+    "category": "Sacraments",
+    "subcategory": "Holy Orders",
+    "question": "Who can receive the Sacrament of Holy Orders?",
+    "answer": "Only a baptized man, in accordance with Church tradition and teaching.",
+    "references": ["Catechism 1577"],
+    "tags": ["Holy Orders"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 366,
+    "category": "Sacraments",
+    "subcategory": "Validity of Marriage",
+    "question": "What is necessary for a valid Catholic marriage?",
+    "answer": "Consent, freedom from impediments, proper form, and openness to children.",
+    "references": ["Catechism 1625–1637"],
+    "tags": ["Marriage"],
+    "level": "Advanced"
+  },
+  {
+    "id": 367,
+    "category": "Sacraments",
+    "subcategory": "Holy Orders",
+    "question": "Does Holy Orders confer a permanent character?",
+    "answer": "Yes, like Baptism and Confirmation, it imprints an indelible spiritual character.",
+    "references": ["Catechism 1582"],
+    "tags": ["Holy Orders"],
+    "level": "Advanced"
+  },
+  {
+    "id": 368,
+    "category": "Sacraments",
+    "subcategory": "General",
+    "question": "Do sacraments work ex opere operato?",
+    "answer": "Yes, the sacraments confer grace by the very fact of the action being performed, provided the recipient is properly disposed.",
+    "references": ["Catechism 1128"],
+    "tags": ["Sacraments"],
+    "level": "Advanced"
+  },
+  {
+    "id": 369,
+    "category": "Sacraments",
+    "subcategory": "Eucharist",
+    "question": "Is the Mass a sacrifice?",
+    "answer": "Yes, it is the re-presentation of the one sacrifice of Christ on Calvary.",
+    "references": ["Catechism 1362–1372"],
+    "tags": ["Eucharist", "Sacrifice"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 370,
+    "category": "Sacraments",
+    "subcategory": "Baptism",
+    "question": "Is Baptism necessary for salvation?",
+    "answer": "Yes, for those who have heard the Gospel and had the opportunity, Baptism is necessary for salvation.",
+    "references": ["Catechism 1257"],
+    "tags": ["Baptism"],
+    "level": "Advanced"
+  },
+  {
+    "id": 371,
+    "category": "Sacraments",
+    "subcategory": "Baptism of Desire",
+    "question": "What is Baptism of desire?",
+    "answer": "It is the salvation of those who, without knowing the Gospel, seek God with a sincere heart and try to do His will.",
+    "references": ["Catechism 1260"],
+    "tags": ["Baptism"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 372,
+    "category": "Sacraments",
+    "subcategory": "Eucharist",
+    "question": "What is transubstantiation?",
+    "answer": "It is the change of the substance of bread and wine into the Body and Blood of Christ while the appearances remain.",
+    "references": ["Catechism 1376"],
+    "tags": ["Eucharist", "Transubstantiation"],
+    "level": "Advanced"
+  },
+  {
+    "id": 373,
+    "category": "Sacraments",
+    "subcategory": "Matrimony",
+    "question": "What is the essential form of Matrimony?",
+    "answer": "The exchange of consent between the spouses.",
+    "references": ["Catechism 1626"],
+    "tags": ["Marriage"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 374,
+    "category": "Sacraments",
+    "subcategory": "Penance",
+    "question": "What is contrition?",
+    "answer": "Sorrow for sins with the resolve to sin no more.",
+    "references": ["Catechism 1451–1454"],
+    "tags": ["Penance"],
+    "level": "Basic"
+  },
+  {
+    "id": 375,
+    "category": "Sacraments",
+    "subcategory": "Penance",
+    "question": "What is absolution?",
+    "answer": "The act by which the priest, in Christ's name, forgives sins.",
+    "references": ["Catechism 1449"],
+    "tags": ["Penance"],
+    "level": "Basic"
+  },
+  {
+    "id": 376,
+    "category": "Sacraments",
+    "subcategory": "Anointing of the Sick",
+    "question": "Can the Anointing of the Sick forgive sins?",
+    "answer": "Yes, if the person is unable to confess, the sacrament can forgive sins.",
+    "references": ["Catechism 1532"],
+    "tags": ["Anointing"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 377,
+    "category": "Sacraments",
+    "subcategory": "Marriage",
+    "question": "What is the primary end of marriage?",
+    "answer": "The procreation and education of children.",
+    "references": ["Catechism 1652"],
+    "tags": ["Marriage"],
+    "level": "Advanced"
+  },
+  {
+    "id": 378,
+    "category": "Sacraments",
+    "subcategory": "Matrimony",
+    "question": "Is contraception compatible with Matrimony?",
+    "answer": "No, it contradicts the openness to life essential to marriage.",
+    "references": ["Catechism 2370"],
+    "tags": ["Marriage", "Morality"],
+    "level": "Advanced"
+  },
+  {
+    "id": 379,
+    "category": "Sacraments",
+    "subcategory": "General",
+    "question": "Do sacraments always give grace?",
+    "answer": "They always give grace if received worthily.",
+    "references": ["Catechism 1128"],
+    "tags": ["Sacraments"],
+    "level": "Basic"
+  },
+  {
+    "id": 380,
+    "category": "Sacraments",
+    "subcategory": "Confession",
+    "question": "What is necessary for a good confession?",
+    "answer": "Examination of conscience, contrition, confession, and satisfaction.",
+    "references": ["Catechism 1451–1460"],
+    "tags": ["Penance"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 381,
+    "category": "Morality",
+    "subcategory": "Bioethics",
+    "question": "Is in-vitro fertilization (IVF) morally acceptable?",
+    "answer": "No, because it separates procreation from the conjugal act and often involves the destruction of embryos.",
+    "references": ["Catechism 2377"],
+    "tags": ["Bioethics", "Morality"],
+    "level": "Advanced"
+  },
+  {
+    "id": 382,
+    "category": "Morality",
+    "subcategory": "Bioethics",
+    "question": "Is euthanasia morally permissible?",
+    "answer": "No, euthanasia is a grave violation of the law of God.",
+    "references": ["Catechism 2277"],
+    "tags": ["Euthanasia", "Morality"],
+    "level": "Advanced"
+  },
+  {
+    "id": 383,
+    "category": "Morality",
+    "subcategory": "Bioethics",
+    "question": "Is organ donation morally acceptable?",
+    "answer": "Yes, if it is done freely and without disproportionate risk to the donor.",
+    "references": ["Catechism 2296"],
+    "tags": ["Bioethics", "Charity"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 384,
+    "category": "Morality",
+    "subcategory": "Social Doctrine",
+    "question": "Is it obligatory to pay just wages to workers?",
+    "answer": "Yes, failure to do so is a grave injustice.",
+    "references": ["Catechism 2434"],
+    "tags": ["Social Doctrine", "Justice"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 385,
+    "category": "Morality",
+    "subcategory": "Bioethics",
+    "question": "Is human cloning morally permissible?",
+    "answer": "No, it is contrary to the dignity of human procreation.",
+    "references": ["Catechism 2377"],
+    "tags": ["Bioethics"],
+    "level": "Advanced"
+  },
+  {
+    "id": 386,
+    "category": "Eschatology",
+    "subcategory": "Judgment",
+    "question": "What is the Particular Judgment?",
+    "answer": "It is the judgment of each soul immediately after death.",
+    "references": ["Catechism 1021"],
+    "tags": ["Judgment", "Death"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 387,
+    "category": "Eschatology",
+    "subcategory": "Resurrection",
+    "question": "Will our bodies rise again?",
+    "answer": "Yes, there will be a resurrection of the body at the end of time.",
+    "references": ["Catechism 990"],
+    "tags": ["Resurrection"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 388,
+    "category": "Eschatology",
+    "subcategory": "Heaven",
+    "question": "What is Heaven?",
+    "answer": "Heaven is the state of eternal communion with God and all the blessed.",
+    "references": ["Catechism 1023"],
+    "tags": ["Heaven"],
+    "level": "Basic"
+  },
+  {
+    "id": 389,
+    "category": "Eschatology",
+    "subcategory": "Hell",
+    "question": "What is Hell?",
+    "answer": "Hell is the state of definitive self-exclusion from communion with God and the blessed.",
+    "references": ["Catechism 1033"],
+    "tags": ["Hell"],
+    "level": "Basic"
+  },
+  {
+    "id": 390,
+    "category": "Eschatology",
+    "subcategory": "Purgatory",
+    "question": "What is Purgatory?",
+    "answer": "It is the purification of the elect before entering Heaven.",
+    "references": ["Catechism 1030-1032"],
+    "tags": ["Purgatory"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 391,
+    "category": "Eschatology",
+    "subcategory": "General Judgment",
+    "question": "What is the General Judgment?",
+    "answer": "It is the final judgment of all humanity at the end of time.",
+    "references": ["Catechism 1038"],
+    "tags": ["Judgment"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 392,
+    "category": "Eschatology",
+    "subcategory": "Heaven",
+    "question": "Do we know the joys of Heaven?",
+    "answer": "They surpass human understanding and imagination.",
+    "references": ["Catechism 1027"],
+    "tags": ["Heaven"],
+    "level": "Basic"
+  },
+  {
+    "id": 393,
+    "category": "Eschatology",
+    "subcategory": "Purgatory",
+    "question": "Can the faithful on earth assist the souls in Purgatory?",
+    "answer": "Yes, through prayers, indulgences, and works of charity.",
+    "references": ["Catechism 1032"],
+    "tags": ["Purgatory", "Charity"],
+    "level": "Intermediate"
+  },
+  {
+    "id": 394,
+    "category": "Eschatology",
+    "subcategory": "Hell",
+    "question": "Does God predestine anyone to Hell?",
+    "answer": "No, God desires all to be saved, but respects human freedom.",
+    "references": ["Catechism 1037"],
+    "tags": ["Hell", "Freedom"],
+    "level": "Advanced"
+  },
+  {
+    "id": 395,
+    "category": "Eschatology",
+    "subcategory": "Heaven",
+    "question": "Will we see God face to face in Heaven?",
+    "answer": "Yes, this is called the Beatific Vision.",
+    "references": ["Catechism 1028"],
+    "tags": ["Heaven", "Beatific Vision"],
+    "level": "Advanced"
+  },
+  {
+    "id": 396,
+    "category": "Eschatology",
+    "subcategory": "Resurrection",
+    "question": "Will we have our own bodies in the Resurrection?",
+    "answer": "Yes, but they will be glorified and incorruptible.",
+    "references": ["Catechism 999"],
+    "tags": ["Resurrection"],
+    "level": "Advanced"
+  },
+  {
+    "id": 397,
+    "category": "Eschatology",
+    "subcategory": "Purgatory",
+    "question": "Is Purgatory temporary?",
+    "answer": "Yes, it will cease after the Last Judgment.",
+    "references": ["Catechism 1031"],
+    "tags": ["Purgatory"],
+    "level": "Advanced"
+  },
+  {
+    "id": 398,
+    "category": "Eschatology",
+    "subcategory": "Hell",
+    "question": "Is the punishment of Hell eternal?",
+    "answer": "Yes, its punishment is everlasting.",
+    "references": ["Catechism 1035"],
+    "tags": ["Hell"],
+    "level": "Advanced"
+  },
+  {
+    "id": 399,
+    "category": "Eschatology",
+    "subcategory": "General Judgment",
+    "question": "Will every hidden thing be revealed at the General Judgment?",
+    "answer": "Yes, all will be revealed to glorify God's justice and mercy.",
+    "references": ["Catechism 1039"],
+    "tags": ["Judgment"],
+    "level": "Advanced"
+  },
+  {
+    "id": 400,
+    "category": "Eschatology",
+    "subcategory": "Heaven",
+    "question": "Is Heaven the ultimate goal of human life?",
+    "answer": "Yes, it is the fulfillment of the deepest human longings for happiness and communion with God.",
+    "references": ["Catechism 1024"],
+    "tags": ["Heaven"],
+    "level": "Basic"
+  }
+]

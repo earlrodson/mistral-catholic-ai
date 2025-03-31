@@ -1,0 +1,13 @@
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+datasets
+trl
+bitsandbytes
+huggingface_hub
+llama-index
+llama-index-embeddings-huggingface
+sentence-transformers
+ollama
